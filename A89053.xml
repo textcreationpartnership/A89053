@@ -1,0 +1,878 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Britannia rediviva, or, a gratulatory sermon for his Majesties safe arrivall and happy restitution to the exercise of his royall government. Preached, at the desire of the magistrats and councell of Aberdene, on the XIX of June, which they had designed to be a day of solemne rejoycing within the city, for the mercy above mentioned, by John Menzeis, professor of divinity: and preacher of the gospell in Aberdene</title>
+            <author>Menzeis, John, 1624-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89053</idno>
+            <idno type="STC">Wing M1724</idno>
+            <idno type="STC">ESTC R230727</idno>
+            <idno type="EEBO-CITATION">99896450</idno>
+            <idno type="PROQUEST">99896450</idno>
+            <idno type="VID">154285</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154285)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2409:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Britannia rediviva, or, a gratulatory sermon for his Majesties safe arrivall and happy restitution to the exercise of his royall government. Preached, at the desire of the magistrats and councell of Aberdene, on the XIX of June, which they had designed to be a day of solemne rejoycing within the city, for the mercy above mentioned, by John Menzeis, professor of divinity: and preacher of the gospell in Aberdene</title>
+                  <author>Menzeis, John, 1624-1684.</author>
+               </titleStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by James Brown,</publisher>
+                  <pubPlace>Aberdene :</pubPlace>
+                  <date>Ann. 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154285:1"/>
+            <pb facs="tcp:154285:1"/>
+            <pb facs="tcp:154285:2" rendition="simple:additions"/>
+            <pb facs="tcp:154285:2"/>
+            <p>
+               <hi>Britannia Rediviva,</hi> Or A GRATVLATORY <hi>SERMON</hi>
+            </p>
+            <p>For His <hi>MAJESTIES</hi> ſafe <hi>Ar<g ref="char:EOLhyphen"/>rivall</hi> and happy <hi>Restitution</hi> to the exerciſe of His Royall <hi>GOVERNMENT.</hi>
+            </p>
+            <p>Preached, at the deſire of the <hi>Ma<g ref="char:EOLhyphen"/>gistrats</hi> and <hi>Councell</hi> of ABERDENE, on the <hi>XIX</hi> of <hi>June,</hi> which they had de<g ref="char:EOLhyphen"/>ſigned to be a day of Solemne Rejoy<g ref="char:EOLhyphen"/>cing within the <hi>City,</hi> for the <hi>Mercy</hi> above mentioned,</p>
+            <p>By <hi>JOHN MENZEIS,</hi> Profeſſor of <hi>Divinity:</hi> and Prea<g ref="char:EOLhyphen"/>cher of the Goſpell in <hi>ABERDENE.</hi>
+            </p>
+            <p>Pſal. 118. <hi>This is the day which the LORD hath made: Wee will rejoyce and be glad in it.</hi>
+            </p>
+            <p>TERTULL. ad Scapulam. <hi>Colimus IMPERATOREM ſic quomodo et nobis licet, et ipſi expedit, ut hominem a DEO ſecundum, et quicquid est a DEO conſecu<g ref="char:EOLhyphen"/>tum, et ſolo DEO minorem. Hoc et ipſe volet. Sic omnibus major eſt, dum ſolo vero DEO minor est.</hi>
+            </p>
+            <p>
+               <hi>ABERDENE,</hi> Printed by <hi>James Brown,</hi> Ann. 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154285:3"/>
+            <pb facs="tcp:154285:3"/>
+            <head>Unto The Right Honourable, <hi>JOHN JAFFRAY</hi> L. Provoſt.
+<list>
+                  <item>bailies.
+<list>
+                        <item>
+                           <hi>Patrick Moir</hi>
+                        </item>
+                        <item>
+                           <hi>Gilbert Gray</hi>
+                        </item>
+                        <item>
+                           <hi>Alexander Alexander</hi>
+                        </item>
+                        <item>
+                           <hi>Gilbert Molyſone</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Thomas Mercer</hi> Dean of Gild.</item>
+                  <item>
+                     <hi>Thomas Mitchell</hi> Theſaurer:</item>
+               </list>
+And to the reſt of the Honourable COUN<g ref="char:EOLhyphen"/>CELL of the City of <hi>Aberdene.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>UPon your call and invitation, this <hi>Sermon</hi> was preached, and now your command hath drawen it to the preſſe. I cannot but obſerve a Divine over-ruling Providence, that thong<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I have been often ſolicited, to publiſh other <hi>Papers,</hi> both caſuiſtique and Polemique, yet my firſt appearance in print, (if ever there ſhall be a next,) moſt needs be on ſuch a <hi>Royall Theame.</hi> I ac<g ref="char:EOLhyphen"/>count it my mercy, that the Lord hath honoured me, not only by the vocall delivery of this enſuing diſcourſe, to excite our hearers unto, but now alſo by the printing thereof, to be (though the meaneſt, yet) among the standing <hi>Remembrancers,</hi> of theſe two great duties, to which the LORD is ſignally calling theſe <hi>Nations,</hi> viz. <hi>Thankfulnes</hi> to the Moſt High God, for the late wounderfull deliverance of <hi>Britaine</hi> &amp; <hi>Ireland;</hi> and (which is the root of the former) genuin Christian <hi>Loyal<g ref="char:EOLhyphen"/>ty</hi> to our <hi>GRACIOUS SOVERAIGN,</hi> whom the Lord hath with an out<g ref="char:EOLhyphen"/>ſtretched arme repoſſeſſed with his due rights.</p>
+            <p>Loyaltie <hi>was the glory of the Primitive</hi> Chriſtians, Confeſſours <hi>&amp;</hi> Martyrs, <hi>both under the</hi> heathen Perſecutions <hi>in the firſt three centuries, &amp; afterwards under</hi> Hereticall Empero<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs: <hi>as</hi> CONSTAN<g ref="char:EOLhyphen"/>TIUS,
+<pb facs="tcp:154285:4"/>
+VALENS, VALENTINIAN <hi>the younger,</hi> Arrians: ANASTA<g ref="char:EOLhyphen"/>SIUS, <hi>an</hi> E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>TYCHIAN: HERACLIUS, <hi>a</hi> Monothelite: <hi>yea under</hi> JULIAN <hi>himſelf who from</hi> Chriſtianity <hi>did ſhamefully apostatiſe, to groſſe</hi> Heatheniſme. <hi>Did not the body of</hi> JULIANS <hi>Army conſist of Chriſtians? did they not in evidence hereof, inſtantly vpon the death of</hi> IULIAN, <hi>proclaime</hi> IOVINIAN, <hi>a zealous Christian,</hi> EMPEROUR? <hi>When</hi> IOVINIAN, <hi>fearing leſt the Army had been ledvened with</hi> Heatheniſm, <hi>declyned the Empyre, proteſting that he would not be an Emperour to</hi> Heathens; <hi>Did they not all with one voice,</hi> (<hi>as witneſſeth</hi> SOCRATES hiſt. Eccleſ. lib. 3. cap. 19. &amp; Theod. hiſt. Eccleſ. lib. 4. cap. 1.) <hi>profeſſe themſelves</hi> Chriſtians, <hi>ſome from the dayes of</hi> CONSTANTINE, <hi>Others from the dayes</hi> of CONSTANTIUS? <hi>Lo a</hi> Chriſtian Army, <hi>which retained their allegeance under the</hi> worſt of Princes, <hi>under that Heatheniſh Apoſtate</hi> IULIAN, <hi>whom</hi> NAZIANZEN Orat. 1. <hi>adverſus</hi> IULIAN. <hi>affirmes to have been more pernicious, in his Contrivances againſt the Church, then either</hi> DIOCLESIAN, <hi>or</hi> MAXIMINUS. <hi>In the Army of</hi> VALENS <hi>an</hi> Arrian Empe<g ref="char:EOLhyphen"/>rour <hi>and bloudy Perſecutour wer not many of his commanders both ſound in the faith and precious godly men, as</hi> Terentius, Trajanus Arintheus <hi>&amp;</hi> Victor; <hi>who not only publickly profeſſed the</hi> trueth; <hi>but alſo with ſuch humble freedom as became</hi> Loyall Subjects, <hi>did re<g ref="char:EOLhyphen"/>preſent to the</hi> Emperour (<hi>as is recorded by</hi> Theod. hiſt. Eccl. lib. 4. capp. 28. 29.) <hi>his hereſis and oppoſition to a fundamentall trueth of</hi>
+               <note place="margin">
+                  <hi>Gul. Bar<g ref="char:EOLhyphen"/>clayus lib. de poteſt. pa<g ref="char:EOLhyphen"/>pe, cap.</hi> 7.</note> 
+               <hi>the Gospel? yet, as one ſayes,</hi> In tam Religioſa libertate, manus abſtinuerunt, nec ultra admonitionem proceſſit indignatio. <hi>They abſtained from all violence, and contained themſelves within the bounds of Loyall freedom of admonition. Did not</hi> Valentinian <hi>the younger, who alſo was</hi> Arrian, <hi>acknowledge that</hi> Ambroſe <hi>had ſuch influence upon his</hi> Army, <hi>that if he would have given a word to the Souldiers, they would have ſeiſed on the</hi> Emperour, <hi>and laid him faſt: Hence</hi> Ambroſe LIB. 5. epiſt. 33. <hi>to</hi> Marcellina <hi>his ſiſter, brings in the</hi> Emperour <hi>speaking thus,</hi> Si vobis juſſerit AMBROSIUS vinctum me tradetis. <hi>But precious</hi> Ambroſe <hi>was acted by another spirit. Of the</hi> heroïck Loyalty <hi>of the more</hi> ancient Chriſtians <hi>under the heathen perſecutions, even then when the Lord had ſo exceedingly encreaſed their numbers, that they wanted not ſtrength to have repulſed the injuries which they ſuſtained from Heathens; Is not</hi> TERTULL. <hi>a speaking witnes,</hi> Apologet. cap. 37. Vel una nox &amp;c. <hi>In one night</hi> (ſaies he) <hi>we could avenge our ſelves, if it were lawfull with us to recompence evill with evill,</hi> Si malum malo diſpungi penes nos licerer: ſed
+<pb facs="tcp:154285:4"/>
+abſit, ut aut igni humano vindicetur divina ſecta, aut doleat pati, in quo probatur &amp;c.</p>
+            <p>
+               <hi>Theſe and other pregnant inſtances of primitive</hi> Loyaltie, <hi>we left upon record ſundry years ages, in our publick Divinity</hi> Lectures <hi>in the famous</hi> Colledge <hi>of this</hi> City, <hi>founded by the</hi> Moſt Noble Lord, the Earle MARISCHALL; <hi>cheriſhed by the</hi> Honourable Councell <hi>of this</hi> Burgh; <hi>authoriſed by that</hi> Moſt Illuſtrious MONARCH, K. IAMES the VI. <hi>And further endowed and united with the</hi> Old Col<g ref="char:EOLhyphen"/>ledge <hi>into one</hi> CAROLINE UNIVERSITY, <hi>by</hi> K. CHARLES the FIRST, of ever Glorious Memorie. <hi>To theſes now onlie I adde the testimony of judicious</hi> CALVINE, (<hi>though it were eaſy to muſter up an Army, of testimonies, from</hi> Reformed Divines, <hi>yeelding a most harmonious Echo, to the</hi> Loyaltie <hi>of theſe</hi> Ancient Worthies.) <hi>in his Commentarie on</hi> Rom. 13. <hi>upon theſe words v.</hi> 3. Rulers, are not a terrour, unto good works; but to the evill: wilt thou then not be afraid of the power? do that which is good. <hi>On which, lear<g ref="char:EOLhyphen"/>ned</hi> Calvine <hi>commenteth thus.</hi> Hic de vero, et quaſi nativo Magi<g ref="char:EOLhyphen"/>ſtratus officio loquitur; a quo tametſi non raro degenerant, qui Principatum tenent: nihil-ominus deferenda eſt illis Obedientia, quae Prinicpib' debetur. Nam ſi malus Princeps, flagellum eſt ad punienda populi delicta, illud fieri noſtro vitio cogitemus; quod eximia Dei benedictio nobis vertatur in maledictionem, ideoq, non deſinamus bonam Dei ordinationem revereri: <hi>and again, u<g ref="char:EOLhyphen"/>pon theſe words, v.</hi> 5. <hi>Wherefore yee muſt needs be ſubject, not only for wrath, but alſo for conſcience ſake.</hi> Ergo (<hi>ſaieth</hi> Calvin) etiamſi exarmatus eſſet Magiſtratus, quem impunè laceſſere &amp; contem<g ref="char:EOLhyphen"/>nere liceret; nihilo magis eſſet id tentandum, quam ſi poenam ſtatim imminere cerneremus.</p>
+            <p>
+               <hi>O how diſſonant to the primitive</hi> Loyaltie <hi>of</hi> Chriſtians <hi>is the uſur<g ref="char:EOLhyphen"/>pation, of the</hi> Biſhop of Rome? <hi>who spared not to rob</hi> Leo Iſaurus <hi>of a part of the Empyre;</hi> Henrie <hi>the IV. of</hi> Germany, <hi>of the whole;</hi> Childerick <hi>of the Kingdom of</hi> France: <hi>not to mention the horrid murder of the two</hi> Henries, <hi>the III. and IV.</hi>
+               <note place="margin">Of Pope Sixtus the V. his ap<g ref="char:EOLhyphen"/>probatio<g ref="char:cmbAbbrStroke">̄</g> of the murder of <hi>Henry</hi> the III. Of the <hi>Ieſuits</hi> approba<g ref="char:EOLhyphen"/>tion of, &amp; acceſſio<g ref="char:cmbAbbrStroke">̄</g> to the murder of both the <hi>Henries,</hi> ſee, beſide others, <hi>Burrhill</hi> pro <hi>Tortura Torti</hi> cont. <hi>Became.</hi> 18. §. 3. <hi>p.</hi> 188. 189.</note> 
+               <hi>of</hi> France; <hi>the many treaſonable contrivan<g ref="char:EOLhyphen"/>ses againſt</hi> Queen Elizabeth; <hi>the Powder-plet againſt</hi> K. James <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Neither are theſe only the practiſes of</hi> Pa<g ref="char:EOLhyphen"/>piſts, <hi>but are alſo founded upon their</hi> doctrinall principles, <hi>as may appeare by theſe foure.</hi>
+            </p>
+            <p>The<note n="¶" place="margin">
+                  <hi>Four Jeſui<g ref="char:EOLhyphen"/>siſh princi<g ref="char:EOLhyphen"/>ples.</hi>
+               </note> Firſt <hi>is, That men in Church-orders to</hi>
+               <pb facs="tcp:154285:5"/>
+               <hi>to whom they appropriat the title of</hi> Clerici, <hi>cannot be puniſhed by any</hi> Politique Magiſtrate, <hi>though they keep not the Civill Laws. So ex<g ref="char:EOLhyphen"/>preſly</hi>
+
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Bell. lib. 1. <hi>de</hi> Clericis cap. 28. prop. 3. <hi>Yea a little after, he ſpares not to ſay, That their Clergiemen, are exempted by the</hi> Pope, a ſubjectione Princip<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m ſaecularium, <hi>from ſubjection to ſecular Princes. How can theſe men be</hi> good ſubjects, <hi>who do not acknowledge themſelves</hi> ſubjects at all?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Their</hi> Second Principle <hi>is, That what is revealed by</hi> confeſſion <hi>to their</hi> Prieſts, <hi>though it were a conſpiracy, againſt the life of the</hi> KING, <hi>or ſafety of the</hi> Kingdome; <hi>yet they ought not to diſcover it.</hi>
+               <note place="margin">Val <hi>de ſac.</hi>
+               </note> 
+               <hi>So commonlie their Schoolmen, in their debates,</hi> De ſigillo confeſſio<g ref="char:EOLhyphen"/>nis,<note place="margin">
+                  <hi>poen. diſp.</hi> 7.</note> 
+               <hi>as</hi> Valentia, Valques, Suares, Lugo &amp;c. <hi>Hence</hi> Garnet <hi>the Ie<g ref="char:EOLhyphen"/>ſuits</hi>
+               <note place="margin">
+                  <hi>q.</hi> 13. <hi>pun.</hi> 4.</note> 
+               <hi>ſuperiour in England, who ſuffered, for his acceſſion to the</hi> Pow<g ref="char:EOLhyphen"/>der-plot,<note place="margin">Vaſ. <hi>in</hi> 3. <hi>p. q.</hi> 93. <hi>art.</hi> 4. <hi>dub.</hi>
+               </note> 
+               <hi>could pretend no other excuſe, for con<g ref="char:EOLhyphen"/>cealing</hi>
+               <note place="margin">10. Suar. <hi>in</hi> 3. <hi>p. Tom.</hi> 4. <hi>diſp.</hi>
+               </note> 
+               <hi>that</hi> treaſonable deſigne, <hi>but becauſe, at</hi>
+               <note place="margin">33. <hi>ſect</hi> 1. <hi>n.</hi> 2. Lug. <hi>de ſacr.</hi>
+               </note> 
+               <hi>he alleadged, (though the contrary was made out</hi>
+               <note place="margin">
+                  <hi>poen. disp.</hi> 23<g ref="char:punc">▪</g> 
+                  <hi>ſect.</hi> 4.</note> 
+               <hi>in the proceſſe,) it was revealed to him only by</hi> confeſſion. <hi>And this is one of the grounds upon which Suarez, made bold to condemue the</hi> Oath of Allegeance. <hi>ten<g ref="char:EOLhyphen"/>dered to</hi> K. James <hi>as</hi> ſacrilegious,<note n="*" place="margin">Suar. <hi>l.</hi> 6. de defen<g ref="char:EOLhyphen"/>ſione fidei Catholicae cont. <hi>An<g ref="char:EOLhyphen"/>glican<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſect<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> errores <hi>c.</hi> 3. <hi>n.</hi> 8. <hi>&amp;</hi> 9.</note> 
+               <hi>becauſe it required the diſcovery of Conspiracies, though onely revealed under their imaginary</hi> ſeale of Confeſſion. <hi>I know</hi> Suarez <hi>in end, to wipe off, if poſſible, the</hi> odium <hi>of this pernicious doctrine, yeelds that Conspirac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es revealed by</hi> confeſſio<g ref="char:cmbAbbrStroke">̄</g>, <hi>may be diſcovered. But its with theſe</hi> Cautions<note n="¶" place="margin">Suar. <hi>loc. cit. n.</hi> 11. 12</note> 1 <hi>That the</hi> perſon guilty, <hi>be neither directly nor indirectly diſcovered.</hi> 2. <hi>That it be done in favours of a</hi> Catholique, (<hi>that is a Popiſh</hi>) <hi>&amp;</hi> pious <hi>Prince.</hi> Then Proteſtant Princes whom they hold for heretique's, are to expect no ſuch favour; <hi>yea nor</hi> popiſh Princes, <hi>whom they<g ref="char:punc">▪</g> upon any prejudi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, ſhall judge not to be</hi> pious. <hi>And</hi> 3. <hi>That they be ſo far from diſcovering the</hi> guil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y perſon <hi>on</hi> perſons, <hi>that they be not ſo much as expoſed to a</hi> Morall <hi>or</hi> probable hazard <hi>of being diſcovered by fur<g ref="char:EOLhyphen"/>ther enquiries.</hi>
+               <note n="†" place="margin">Is not this on the <hi>mat<g ref="char:EOLhyphen"/>ter,</hi> to retra<g ref="char:EOLhyphen"/>ctat his for mer ſeem<g ref="char:EOLhyphen"/>ing conceſ<g ref="char:EOLhyphen"/>ſion?</note> 
+               <hi>Nay rather they will expoſe both the King &amp; kingdom to certain ruine. Whether this</hi> doctrin <hi>be conſiſtent with the ſecurity of the</hi> State, <hi>let the</hi> WORLD, <hi>but specially</hi> proteſtant Princes, <hi>judge.</hi>
+            </p>
+            <p>
+               <hi>Their</hi> third Principle <hi>is, That the</hi> Pope, <hi>by his illimited authority, can abſolve</hi> ſubjects <hi>fro<g ref="char:cmbAbbrStroke">̄</g> their obedience due to Princes, &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak voide all</hi> oaths <hi>of</hi> allegeance <hi>how ſolemnly ſo ever they be taken. This</hi> Sua<g ref="char:EOLhyphen"/>rez <hi>holds out to be the received doctrine of the</hi> Church <hi>of</hi> Rome, <hi>in his ſorecited treatiſe,</hi> de Defenſione fidei Catholicae, adverſus Anglicanae
+
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> ſectae errores; (<hi>which he wrote againſt</hi> K. JAMES <hi>the Sixt,</hi>
+               <pb facs="tcp:154285:5"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Phoenix, <hi>for learning, at well as for other</hi> Royall <hi>endowments, a<g ref="char:EOLhyphen"/>mong the Princes of his age</hi>) <hi>in which</hi>
+               <note n="*" place="margin">
+                  <hi>Spalat.</hi> O<g ref="char:EOLhyphen"/>ſtenſ<g ref="char:punc">▪</g> error. <hi>Suarez ii,</hi> c. 3. n. 58. <hi>cals</hi> this book of <hi>Suar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>z,</hi> librum pe<g ref="char:EOLhyphen"/>ſtiferu<g ref="char:cmbAbbrStroke">̄</g>, ſe<g ref="char:EOLhyphen"/>ditionm Magiſtru<g ref="char:cmbAbbrStroke">̄</g>, rebellionu<g ref="char:cmbAbbrStroke">̄</g> buccinam.</note> 
+               <hi>the</hi> Ieſuits <hi>grand ſcope, (as ſeems) is to teach ſubjects principles of ſedition and rebellion againſt</hi> Princes <hi>when they ar not ſubſervient to the</hi> Popes <hi>intereſt<g ref="char:punc">▪</g> Hence</hi> l. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. c. 22. <hi>he undertaks to prove this Poſition;</hi> Reges Chriſtianos non ſo<g ref="char:EOLhyphen"/>lum quoad perſonas, ſed etia<g ref="char:cmbAbbrStroke">̄</g> quoad regiam poteſta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em, i. non ſo<g ref="char:EOLhyphen"/>lum ut homines ſed etiam ut Reges Chriſtianos poteſtati Pontifi<g ref="char:EOLhyphen"/>cis ſubjici. <hi>The</hi> Engliſh <hi>of it is, That</hi> Kings <hi>not only as to their</hi> Per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons, <hi>but alſo as to their</hi> Royall Authority; <hi>not only as men, but alſo as Chriſtian Kings are</hi> ſubject to the <hi>Popes</hi> juriſdiction. <hi>Behold, the</hi> Ieſuite <hi>with one blow<g ref="char:punc">▪</g> degrading all the</hi> Monarchs <hi>of</hi> Europe <hi>&amp; re<g ref="char:EOLhyphen"/>ducing them to the</hi> Order of Subjects. <hi>Neither is this the private opi<g ref="char:EOLhyphen"/>nion, of this on</hi> Ieſuite, <hi>for he declares</hi> §. 2. <hi>of that ſame</hi> cap. <hi>that this his aſſertion,</hi> communi Catholicorum conſenſu recepta eſt <hi>is recei<g ref="char:EOLhyphen"/>ved by common conſent of his pretended Catholicks. But here he reſts not. In the next</hi> cap<g ref="char:punc">▪</g> 
+               <hi>which is the</hi> 23. <hi>he layes down this poſition as the received doctrine of their Fathers,</hi> Pontificem Summum poteſtate coeroiva in Reges u<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> poſſe, uſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ad depoſitionem, <hi>That is, That the Pope may exerciſe his c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ercive power over</hi> kings <hi>even to the</hi> depo<g ref="char:EOLhyphen"/>ſing of them. <hi>Yea this they have made an Article of their Faith, in their fourth</hi> Lateran Councell,<note n="*" place="margin">Concil. Later. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. cap. 3. Si Dominus temporalis requiſitus et monitus ab Eccleſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, terram ſuam purgare negle<g ref="char:EOLhyphen"/>xeri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ab haeretica foe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itate — ſig<g ref="char:EOLhyphen"/>nificetur, hoc ſummo Pontifici ut ex tunc vaſallos ab ejus fidelitate denun<g ref="char:EOLhyphen"/>ciet abſolutos, et terram exponat ca<g ref="char:EOLhyphen"/>tholicis occupandam qui eam ſine ul<g ref="char:EOLhyphen"/>la contradictione poſſideant. <hi>I know</hi> Spalat. lib. 6. de repub. Eccl. cap. 10. n. 96 et ſeqq. <hi>labours to prove, That al<g ref="char:EOLhyphen"/>beit theſe Later a<g ref="char:cmbAbbrStroke">̄</g> canons wer exhibited by the Pope to the Councell, yet no ſentence or definition paſt on them. But what ever be of this, our charge bolds</hi> ad hominem <hi>againſt</hi> Bell. <hi>and the reſt of that tribe: for they hold theſe Canons, as the authen<g ref="char:EOLhyphen"/>tique decrees of a</hi> Generall Councell.</note> 
+               <hi>under</hi> Innocent <hi>the Third.</hi> Suarez <hi>his drift through all his fixth book, is to dispute again<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the giving or keeping of the O<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h of</hi> allegeance <hi>to</hi> proteſtant Princes. <hi>Yea</hi> cap. 4. <hi>of that book</hi> §. 18. <hi>hee is not afrayed to affirme, That the</hi> pope <hi>may not only</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epoſe <hi>kings, but alſo</hi> take their lives; <hi>&amp; that its law full to any private perſon commiſſionated by the</hi> Pope <hi>to kill the</hi> KING. Si Papa (<hi>ſaieth he</hi>] Regem deponat, ab illis tan<g ref="char:EOLhyphen"/>tum poterit expelli, et interfici, quibus ipſe (<hi>Papa</hi>) id co<g ref="char:cmbAbbrStroke">̄</g>miſerit, <hi>That is, If the Pope depoſe the King<g ref="char:punc">▪</g> he can only be ex<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and killed by theſe whom the Pope commiſſionats for that effect.</hi> Spalat. in o<g ref="char:EOLhyphen"/>ſtenſ. errorum <hi>Suarez ii,</hi> cap. 6. n. 27. <hi>is ſo astoniſhed at theſe hell<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh tenets,</hi> orco digna, <hi>as his phraſe is, that he breaks forth into theſe words,</hi> Mihi dum haec lego, oculi
+<pb facs="tcp:154285:6"/>
+ſtupent, dum haec tranſcribo manus contremiſcit: <hi>his eyes failed him and ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds trembled &amp;c.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+               <hi>I only adde a</hi> fourth <hi>of their</hi> Principles, (<hi>though they who tooke pleaſure to rake this dunghill, could eaſily fill a volume with ſuch ſtuffe from their writtings</hi>) <hi>which</hi> Cardinall Bellarm. <hi>delyvers,</hi> lib 5. de Romano Pontifice, cap. 7. Rat. 3. Non licere Chriſtianis tolerare Regem haereticum, ſi is conetur ſubditos in ſuam haereſin pertra<g ref="char:EOLhyphen"/>here. <hi>That its not lawfull for ſubjects, to tolerat an Hereticall King, if he labour to draw his ſubjects to his hereſie. It not this to blew a Trumpet for rebellion? becauſe of theſe and ſuch like Popiſh principles, our gravest</hi> Divines, <hi>among the reſt learned</hi> Davenant, <hi>in his book intituled,</hi> Determinationes quarundam Quaeſtionum Theologi<g ref="char:EOLhyphen"/>carum quaeſt. 17<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>have most deſervedly concluded, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>eſuiticos Pontifi<g ref="char:EOLhyphen"/>cios non poſſe eſſe bonos ſubditos, <hi>That Ieſuited Papiſts can never be good ſubjects; and worthy</hi> Maſter Baxter <hi>in his</hi> Key for Catho<g ref="char:EOLhyphen"/>licks, part. 1. cap. 48. <hi>ſpares not to ſay, That</hi> Kings are not Kings, where the Pope is folly Pope. <hi>What neede we more? It not Our Most Seren PRINCE of glorious memory</hi> K. Iames the VI. <hi>a Wit<g ref="char:EOLhyphen"/>neſſe beyond exception, Who in his Royall Apologi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the oath of Al<g ref="char:EOLhyphen"/>legeance,</hi> pagg. 279. <hi>and</hi> 280. inter opera Regia <hi>after a recitall of twelve of</hi> Bellarmin's <hi>poſitions destructive to</hi> Royaltie, <hi>ſuch as</hi> That<note place="margin">O impude<g ref="char:cmbAbbrStroke">̄</g>t and prodi<g ref="char:EOLhyphen"/>gious <hi>tenets</hi>
+               </note> Kings, are rather ſervants then Lords: that they are ſubject not onely to Popes, but alſo to Biſhops &amp; Presbyters, yea &amp; to Dea<g ref="char:EOLhyphen"/>cons: That Emperours, muſt not take it ill, to drink, not only after the Biſhop, but alſo after the Presbyter. That Eccleſiaſtick perſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, are as far above Princes, as the ſoul in dignity is beyond the body: That the function and authority of Kings, is not im<g ref="char:EOLhyphen"/>mediatly of God or of Divine right: That Kings may be depo<g ref="char:EOLhyphen"/>ſed by their ſubjects: That Popes have depoſed Emperours, but never did an Emperour depoſe a Pope &amp;c. <hi>Who, I ſay, after a large recitall of theſe and other of the Ieſuits pernicious tenets, moſt judiciouſly concludeth.</hi> Non magis opponi Chriſtum Beliali, aut lucem tenebris, aut Coelum Inferno, quam Roberti Bellarmini, de Regibus opinio, Divinis Oraculis adverſatur, <hi>That is, That the Devill is no more oppoſite to Chriſt, nor light to darkneſſe, nor hell to Heaven, then the Ieſuite</hi> Bellarmine's opinion <hi>of Kings is re<g ref="char:EOLhyphen"/>pugnant to the divine Oracles of holy Scripture.</hi>
+            </p>
+            <p>
+               <hi>But Alas! What ſhall I ſay? Is it not to be lamented, if it were poſſible with tears of bloud? That ſo much advantage ſhould have been given to the Ieſuited party for recrimination, to retort a charge of diſloy<g ref="char:EOLhyphen"/>al<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:154285:6"/>
+            <head>A GRATULATORY SERMON for His <hi>Majesties</hi> ſafe ARRIVALL and happy reſtitution to the Exerciſe of His Royall Government<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</head>
+            <epigraph>
+               <bibl>PSAL. LXXI.</bibl>
+               <q>
+                  <bibl>Verſ. 20.</bibl>
+                  <p>Thou which hast ſhewed me great and ſore troubles, ſhalt quicken me again, and ſhalt bring me up again from the depths of the earth.</p>
+               </q>
+               <q>
+                  <bibl>Verſ. 21.</bibl>
+                  <p>Thou ſhalt increaſe my greatneſſe, and comfort me <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n every ſide.</p>
+               </q>
+               <q>
+                  <bibl>Verſ. 22.</bibl>
+                  <p>I will alſo praiſe thee with the pſaltery, even thy truth O my GOD, unto thee will I ſing with the harp, O th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Holy One of Iſrael.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the words read, (leaving to preface upon the<note place="margin">
+                  <hi>The text di<g ref="char:EOLhyphen"/>vided.</hi>
+               </note> Pſalme in generall) we have theſe three things. Firſt, A Great and a gracious King, <hi>David,</hi> the Royall Pſalmiſt and <hi>ſweet finger of Iſrael,</hi> ex<g ref="char:EOLhyphen"/>preſſing his ſenſe of the deep troubles under which he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had groaned. <hi>Thou hast ſhewed me great and ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re troubles.</hi> II. The ſame <hi>David</hi> from a well grounded perſwaſion of faith, promi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to him<g ref="char:EOLhyphen"/>ſelf, from the Lord, as ſignall mercies, for the future, as his for<g ref="char:EOLhyphen"/>mer afflictions had been bitter. <hi>Thou ſhalt quicken me again, and bring me up again from the depths of the earth. Thou ſhalt increaſe my greatnes, and comfort me on every ſide.</hi> Wee have him III. as one who well knew how to improve both rods and deliverances, ſo<g ref="char:EOLhyphen"/>lemnly engaging to be forthcoming for the Lords praiſe, <hi>I will</hi>
+               <note place="margin">
+                  <hi>The first branch ſub<g ref="char:EOLhyphen"/>divided.</hi>
+               </note> 
+               <hi>alſo praiſe thee with the Pſalteri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> even thy truth O my GOD. &amp;c.</hi>
+            </p>
+            <p>I returne, intending by a few ſhort hints to paſſe through the words. In the firſt branch <hi>David,</hi> holds out 1. The principall Author of all his ſad exerciſes: not <hi>Saul,</hi> not <hi>Doeg,</hi> not <hi>Abſolom,</hi> (in time of whoſe unnaturall conſpiracy this pſalme is thought
+<pb n="2" facs="tcp:154285:7"/>
+to have been penned) <hi>But Thou O Lord,</hi> (ſayes he,) <hi>Thou O holie</hi>
+               <note place="margin">
+                  <hi>Anguſtias multas et malas,</hi> Tre<g ref="char:EOLhyphen"/>mell. <hi>Mag<g ref="char:EOLhyphen"/>nas &amp; ma<g ref="char:EOLhyphen"/>las,</hi> Pagnin <hi>et</hi> Mont.</note> 
+               <hi>One of Iſrael,</hi> 2. He gives a touch of the bitterneſſe of his exer<g ref="char:EOLhyphen"/>ciſes, he cals them, <hi>great and ſore troubles,</hi> that is, depth diſtreſſes. But 3. w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e have fai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hs undervaluing proſpect of all theſe evils. Senſe had called them <hi>great &amp; ſore troubles;</hi> but faith in a manner correcting ſenſe, ſayes, <hi>Thou haſt ſuè<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed me great &amp; ſore troubles fe<g ref="char:EOLhyphen"/>ciſti ut experirer, Iun. et Tremell.</hi> But they acknowledge according to the hebrew, its <hi>Feciſti ut viderem,</hi> &amp; hence <hi>Pagnin. Ostendiſti,</hi> Thou haſt made me to ſee or ſhewed me, as if <hi>David</hi> had ſaid, albeit ſenſe do aggravate my afflictions, as great &amp; ſore troubles; yet faith gives me another eſtimat of them. Its but a tranſient view &amp; ſhew of trouble, which I have had, Thou who <hi>hast ſhew<g ref="char:EOLhyphen"/>ed me great &amp; ſore trouble.</hi> The words of this branch are ſo plain, that they need not further explication, then what hath been inſi<g ref="char:EOLhyphen"/>nuated in the diviſion, Therefore I proceed to ſome doctrines.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> Doct. 1. <hi>Great ones and good ones may be exerciſed with great and ſore troubles. David,</hi> was both a great Prince and a good man; yet was he exerciſed with great and ſore troubles. Ye will finde the truth of this, if ye reade the Hiſtory of <hi>Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls</hi> perſecution, and of <hi>Abſolems</hi> uſurpation, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the books of <hi>Samuell.</hi> Was not <hi>Joſeph</hi> an eminent Worthy? yet was he alſo exerciſed with great and ſore troubles, <hi>The archers ſorely grieved him, ſhot at him, and woun<g ref="char:EOLhyphen"/>ded him</hi> GEN. 49. 23. He was thrown into a pit, ſold to <hi>Iſhmae<g ref="char:EOLhyphen"/>lits,</hi> after caſt into a dungeon, and laid in the irons in a ſtrange Land. But what ſpeak I of <hi>David</hi> or of <hi>Joſeph?</hi> Was there ever ſo great an One as our <hi>LORD CHRIST,</hi> the Son of the <hi>Higheſt?</hi> or ſo good an One, <hi>The holy and juſt One. Yet behold and ſee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> if ever there was any ſorrow like to His ſorrow!</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>The</hi> 1. <hi>rea<g ref="char:EOLhyphen"/>ſon of the Doctrine.</hi>
+               </note>A firſt reaſon of the point may be this, Great and haynous <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ins, bring on great and ſore afflictions; I never knew any rationall creature afflicted, but were ſinners, either formally or by impu<g ref="char:EOLhyphen"/>tation. I add this caution, becauſe of <hi>Our Lord Jeſus who never knew ſin, II.</hi> Cor. 5. 21. as to His own Perſon, He was conſcious to himſelf of no wickedneſſe, <hi>nor ever was guile found in his mouth, I.</hi> Pet. 2. 22. yet one ſpared not to ſay, (I pray miſtake not the word,) that He was <hi>the greateſt of ſinners,</hi> namely by imputation: becauſe all the ſins of the Elect were imputed to Him and char<g ref="char:EOLhyphen"/>ged on Him, <hi>Iſai.</hi> 53. 6. <hi>He laid on him the iniquities of us all. Do<g ref="char:EOLhyphen"/>minus fecit occurrere in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um</hi> ARR. MONT. he made all our iniqui<g ref="char:EOLhyphen"/>ties to meete on Him, as ſo many violent ſtreames of water mee<g ref="char:EOLhyphen"/>ting
+<pb n="3" facs="tcp:154285:7"/>
+in one channell, and this imputed guiltineſſe of the Elect, was the ground of His unſpeakable ſufferings; But alas, All the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt of Mankinde beſide our LORD, are inherently ſinfull, even this holy Prince <hi>David,</hi> ſo much renowned for his holines, had his owne ſpots, and theſe very foule. Indeed if I ſhould ſay, that the greateſt ſufferers, are alwayes the greateſt ſinners; <hi>I ſhould ſin againſt the generation of the righteous;</hi> for the Lord ſomtimes af<g ref="char:EOLhyphen"/>flicts his owne, more for the tryall of their graces, then for the puniſhment of their tranſgreſſions, as is clear in the caſe of <hi>Job;</hi> Yet it is ſin which renders us ſubjects capable of affliction: So that <hi>Eliphaz<g ref="char:punc">▪</g>
+               </hi> word holds true, IOB. 5. 6. <hi>Affliction ſprings not out of the duſt.</hi> Sin is the bitter root on which affliction grows.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>ſe∣cond of the Doctrine.</label> A ſecond reaſon, The Lord exerciſes ſome of the ſons of men with great and ſore troubles, to fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and prepare them for emi<g ref="char:EOLhyphen"/>nent truſt and ſervices; This was the deſigne of God in exerci<g ref="char:EOLhyphen"/>ſing <hi>Joſeph</hi> with theſe many and bitter afflictions, even to pre<g ref="char:EOLhyphen"/>pare him, for the great truſt he was to put upon him; for He had appointed him to be a Prince and Governour next to <hi>Pharaoch,</hi> in that mighty kingdom of <hi>Egypt.</hi> Wherfore GEN. 50. 20. <hi>As for you, ſaid he, to his brethren) yee thought evill against me, but God meant it unto good.</hi> Before the LORD ſet <hi>David</hi> upon the Throne, He would have him ſchooled by the croſſe, <hi>hunted like a Partridge,</hi> and chaſed from Nation to Nation; Thus the LORD fitted him for the truſt to which hee was deſigned. Hence ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> finde him reſolving in <hi>Pſal.</hi> 101. when he comes to his Govern<g ref="char:EOLhyphen"/>ment, to cloath himſelf with the z<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale of God for cleanſing, both Court and Nation <hi>of evill doers,</hi> A ſweet fruit of a ſanctified affliction. I deſire confidently to beleeve, that this hath been the deſigns of God, in theſe great and ſore troubles, wherewith Hee hath been pleaſed to exerciſe our <hi>GRACIOUS SOVERAIGN,</hi> to fit him for the Government, and to prepare him to be an emi<g ref="char:EOLhyphen"/>nent inſtrument of His Glory, in advancing the <hi>Reformed</hi> and <hi>Proteſtant Religion,</hi> both at home and abroad. And ſurlie a ſan<g ref="char:EOLhyphen"/>ctified affliction is a ſpeciall meane of God, to fit men, either for Civill or Eccleſiaſtick capacities. <hi>Schola crucis, ſch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>la lucis;</hi> The ſchoole of the croſſe is a ſchool of light &amp; inſtruction; Yea is it not ſaid of our <hi>LORD</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Heb. 5. 8. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>He learned by what he ſuffered</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſō </seg>third of the Doct.</label> Take onely a hint of a third reaſon. If great ones &amp; good ones were exempted fro<g ref="char:cmbAbbrStroke">̄</g> croſſes, alas would they not be ready to
+<pb n="4" facs="tcp:154285:8"/>
+ſay, <hi>Its good being here.</hi> But our Lord lookes upon an Imperiall Crown on earth as too low a Portion for a Saint. Therefore the Lord is pleaſed to mixe water among their wyne, that they may look &amp; pant after that Crown of righteouſnes and Glory, that fadeth not away. The Lord had provided a better portio<g ref="char:cmbAbbrStroke">̄</g> for <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> then the Crown of <hi>Iſrael.</hi> I truſt alſo for our <hi>LATE SOVE<g ref="char:EOLhyphen"/>RAIGN</hi> of ever bleſſed Memory, though bloudy hands did rob him of his life &amp; of an earthly Crown, yet could they not rob him of that incorruptible Crown of Glory; Nay by that horrid &amp; inhumane parricide they did haſten him, to the poſſeſſio<g ref="char:cmbAbbrStroke">̄</g> therof. I verily beleeve, It was the lively expectation of, and earneſt brea<g ref="char:EOLhyphen"/>things of his moſt precious ſoul after that Crown of Righteouſ<g ref="char:EOLhyphen"/>neſſe, which did ſo ſtrengthen him to poſſeſſe his ſoul with ſuch admirable, heroick, and invincible patience, under ſo long<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>ſupra mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in ſublimi<g ref="char:EOLhyphen"/>tate</hi> vulg. lat. <hi>Secundu<g ref="char:cmbAbbrStroke">̄</g>
+                  </hi> excellentiam in excellentiam, <hi>ARR. MONT.</hi> mire ſupra modum <hi>Eraſ.</hi> In incredibilem modum, <hi>Aug. in Pſalm.</hi> 93. per ſupergreſſu<g ref="char:cmbAbbrStroke">̄</g> inſuper. <hi>Tertull.</hi> in <hi>Scorp. cap.</hi> 13. Glori<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> excellenter excellentis. <hi>Beza.</hi>
+               </note> a tract of ſuch barbarous and unheard of cruelties. According to that, <hi>II. Cor.</hi> 4. 17. 18. <hi>Our light affliction</hi> (ſo faith cals ſharpeſt afflictions, when it eyes that hoped for Glory) <hi>which is but for a moment, worketh for us a far more exceeding and eternall weight of glo<g ref="char:EOLhyphen"/>ry, While wee looke not at the things which are ſeen; but at the things which are not ſeen: for the things which are ſeen, are temporall, but the things which are not ſeen are eternall.</hi> Whom would not the lively hope of this glory, animat to undergoe any trials with patience?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>firſt of Doct.</label> I onely point at two words of vſe: and the firſt is, <hi>Dear People,</hi> take heed yee provoke not the Lord. If He ſpare neither the greateſt nor the beſt of men, when they ſin againſt him<g ref="char:punc">▪</g> how ſhall we eſcape? If He ſmite <hi>Cedars</hi> like <hi>David,</hi> with great and ſore troubles; ſhall ſhrubs like us expect impunitie? The Lord by the rodes, wherwith he exerciſes great Ones and good ones demonſtrates how hatfull ſin is to him in all perſons. Yea let <hi>Chriſt</hi> the Son of his love charge himſelf but with the treſpaſſes of other men, He ſhall not eſcape the Croſſe, <hi>Rom,</hi> 8. 32. <hi>He spared not his owne Son.</hi> Were this conſidered, and ſeriouſly beleeved: would wee da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to offend this ſin-revenging Majeſty of God? Surely when the <hi>Iudgements of God are on the land,</hi> (eſpecially when he ſmyts great Ones &amp; good ones) <hi>The inhabitants ought to learne righteouſnes. Iſ.</hi> 26. 8.</p>
+            <pb n="5" facs="tcp:154285:8"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>ſecond of doctrin.</label> But my ſecond word of uſe is, judge not hardly, I intreate you, of afflicted ones. The Lord may exerciſe a <hi>David,</hi> who was a dar<g ref="char:EOLhyphen"/>ling, with great and ſore troubles, yet the Lord had a deſigne of love in all <hi>Davids</hi> afflictions; and made it out ſo convincingly to <hi>Davids</hi> ſpirit, that he profeſſes to the praiſe of the Lords good<g ref="char:EOLhyphen"/>neſſe. Pſalm. 119. 71. <hi>It was good for him he was afflicted,</hi> and v. 57. <hi>That the Lord in faithfulnes had afflicted him. Luther</hi> was wont to ſay, <hi>Eccleſia eſt haeres crucis,</hi> and again, <hi>Omnis Chriſtianus eſt cru<g ref="char:EOLhyphen"/>cianus,</hi> and againe, I have not (ſaid he) a greater argument a<g ref="char:EOLhyphen"/>gainſt the <hi>Popes</hi> kingdom, <hi>Quam quod ſine cruce regnat,</hi> then that he reigns without a croſſe. The holy man was ſo far from look<g ref="char:EOLhyphen"/>ing upon outward proſperitie as a <hi>Marke</hi> of the <hi>Church,</hi> that he rather looked on it as a <hi>badge</hi> of <hi>Antichriſt.</hi> It hath pleaſed the Lord ſo to order, that our <hi>SOVERAIGN</hi> is come to his Crown by the croſſe. This ſhould be ſo far from ſtumbling us, that it ought rather to raiſe both our prayers to God for him, and our expectations of him, the higher. Our earneſt deſire to the Lord ought to be, that it may more and more appeare, that the Lord had a ſpeciall deſigne of love to him in all his ſufferings, to make him the more inſtrumentall for his own glory, &amp; for the good of theſe Nations. What an hard beginning had illuſtrious <hi>QUEEN ELIZABETH?</hi> clapt up in the tower of <hi>London,</hi> carried fro<g ref="char:cmbAbbrStroke">̄</g> pri<g ref="char:EOLhyphen"/>ſon to priſon, how oft was ſhe in fears, either to be brought forth to publick execution or to be ſecretly cut off? One day in her pri<g ref="char:EOLhyphen"/>ſon at <hi>Wood-stock,</hi> hearing a poor milk-maid ſinging chearfully: O, ſaid ſhe, that my lot were exchanged with the condition of that poor milk-maid! Yea her ſufferings were ſuch, that as one ſayes, ſhe well deſerved the tittle of <hi>Elizabeth the confeſſor,</hi> yet af<g ref="char:EOLhyphen"/>terwards, what a glorious Princeſſe did the Lord make her? What an eminent inſtrument was ſhe for the eſtablishment &amp; propaga<g ref="char:EOLhyphen"/>tion of the Goſpel, both at home and abroad? with what a long and proſperous reigne did the Lord bleſſe her? ſo that the event did anſwere to that word, where with oft ſhe propheticallie ſo<g ref="char:EOLhyphen"/>laced her ſelf, in time of her afflictions: <hi>Flebile Principium, melior fortuna ſequetur.</hi> Reverend Mr. <hi>Clark</hi> in her life ſayes of her <hi>Her very afflictions through Gods goodnes did her ſo much good, that it is hard to ſay, whether ſhe wer more happy in having a Crown ſo ſoon, or in having it no ſooner, till affliction had firſt laid in her a low and therfore ſure foundation of humilitie, for highnes to be afterwards built upon, by which means ſhe was ripned for the future rule &amp; ſoveraignty.</hi>
+               <pb n="6" facs="tcp:154285:9"/>
+Let our prayers to the Lord to day be, that the late ſufferings of his <hi>MAJESTY</hi> who now reigns, may have the like bleſſed iſſue. And <hi>for a door of hope,</hi> we have his conſtant adherence to the <hi>Pro<g ref="char:EOLhyphen"/>teſtant Religion,</hi> in midſt of ſo many temptations, and that moſt Chriſtian <hi>Proclamation</hi> againſt profannes and debauchrie emitted ſhortly after his ſolemn reception in the city, which deſerves to be printed in letters of gold. <hi>Such gracious beginnings are very pro<g ref="char:EOLhyphen"/>miſing.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>ſecond.</label> But I proceed to this ſecond doctrine, from the firſt branch of the text, <hi>Its a good ſigne of a ſanctified affliction, when the hand of God is principallie and religiouſlie eyed in the rod. David</hi> had inſtruments and theſe moſt wicked to have looked after; as furious <hi>Saul,</hi> bloody <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eg,</hi> unnaturall ambitious and treacherous <hi>Abſolom,</hi> that fox <hi>Achitophel,</hi> that barking dog <hi>Shimei</hi> &amp;c. But he looks above all theſe, <hi>THO<g ref="char:V">Ʋ</g>,</hi> ſaies he, <hi>who haſt ſhewed me great &amp; ſore troubles.</hi> What a THOU is this? look to v. 22. the laſt of my text, <hi>THO<g ref="char:V">Ʋ</g> O my God, THO<g ref="char:V">Ʋ</g> O holy One of Iſrael,</hi> he eyes God principally in all. <hi>Jobs</hi> carriage is very remarkable as to this, Iob. 1. 21. <hi>Job</hi> does not charge <hi>Caldeans,</hi> nor <hi>Sabeans,</hi> nor the <hi>Devill</hi> with his calami<g ref="char:EOLhyphen"/>ties, though they wer moſt wickedly inſtrumentall in them. He does not ſay, the <hi>Lord</hi> gave, but the <hi>Devil</hi> &amp; his inſtrume<g ref="char:cmbAbbrStroke">̄</g>ts have taken away: Nay as he acknowledges the Lord to be the giver, ſo alſo he eyes the hand of his Soveraign providence in taking away. <hi>The Lord,</hi> ſaies he, <hi>gave, &amp; the Lord hath taken away, bleſſed be the name of the Lord.</hi> As remarkable is that of <hi>Joſeph</hi> Gen. 45. 3. 4. 5. When he had revealed himſelf to his brethren, ſaying, I am <hi>Joſeph whom ye ſold into Egypt.</hi> They wer ſo troubled, and as the margine varies it, <hi>terrified</hi> at his preſence, through the con<g ref="char:EOLhyphen"/>ſcience of their treſpaſſe againſt him, that they could not ſpeak, nor I beleeve well look to him: But behold holy and precious <hi>Joſeph</hi> his carriage, <hi>Come neare,</hi> ſaid he, <hi>my brethren, &amp; be not grie<g ref="char:EOLhyphen"/>ved, for God did ſend me before you to preſerve life.</hi> He looks more to the overuling hand of providence, then to them, in that won<g ref="char:EOLhyphen"/>derfull diſpenſation. Ye know alſo <hi>Davids</hi> mortified &amp; heroick carriage, in the matter of <hi>Shimei,</hi> II. Sam. 16. 10. When <hi>Abiſhai</hi> would have executed juſtice on him, the King would not ſuffer him, <hi>For,</hi> ſaid he, <hi>God hath ſaid to Shimei, curſe David.</hi> The <hi>religious</hi> eying of the hand of providence in the diſpenſation made <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſo moderate in executing juſt vengeance on ſuch a <hi>Traitour.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> Let the uſe of the poynt be for tryall. There have been very
+<pb n="7" facs="tcp:154285:9"/>
+ſad rods theſe late years upon this land, upon our Kings, upon our Nobles, upon our Cities; who have not had a ſhare in the ſtroak? Would ye know if the ſanctified uſe be obtained, either of theſe common national rods, as each of us have been concer<g ref="char:EOLhyphen"/>ned in them, or of particular and perſonall exerciſes? look if yee have learned purely to eye the hand of divine providence in af<g ref="char:EOLhyphen"/>flicting diſpenſations; <hi>THO<g ref="char:V">Ʋ</g> haſt ſhewed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e great &amp; ſore troubles,</hi> ſaid this Royal Pſalmiſt. When the afflicting hand of God is pure<g ref="char:EOLhyphen"/>lie eyed, the ſoul will firſt humble it ſelf genuinly, &amp; ſubmiſſive<g ref="char:EOLhyphen"/>lie <hi>under his mighty hand.</hi> I. Pet. 5. 6. It will ſecondly be very ſtu<g ref="char:EOLhyphen"/>dious of a ſaving diſcovery of the ſin, which hath provoked him, <hi>Job</hi> 34. 31. 32. The ear thirdly will be opened to diſciplin. <hi>Job</hi> 36. 8. 9, 10. There will be a liſtning to the voyce of the rod: the duties will be obſerved to which the Lord calls, O that this may be BRITAINES mercie! O but that is a dreadfull ſcripture, Iſai 42. 24. 25. <hi>Who gav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jacob for a spoyle, and Iſrael to the robbers? did not the Lord against wh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> we have ſinned? for they would not walk in his wayes, neither were they obedient unto his law. Therefore he hath poured upon him the furie of his anger, and the ſtrength of battel, and it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath ſet him on fire round about, yet he knew it not<g ref="char:punc">▪</g> and it burned him, yet he laid is not to heart.</hi> The Lord keep theſe lands from ſuch a ſpirituall lethargie. I cloſe the poynt with this word, A ſanctified remembrance of the afflictions <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder which we have lately been, eying principally in them the hand of divine Providence, and and our own treſpaſſes, which have provoked the Lord againſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, were a notable ballaſt to our ſpirits, in ſuch a day of rejoicing, for ſo fignall a delyverance. The day wherin the Lord brought <hi>Iſrael</hi> out of <hi>Egypt,</hi> was ſure a joyfull day to the people of God; yet the Lord, in the anniverſarie commemoration of it, would have them to eat the <hi>paſſeover,</hi> which as it did c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>memorat their deliverance, ſo alſo their bondage &amp; affliction in <hi>Egypt.</hi> Hence the <hi>Jewiſh rituals</hi> tell us, that at the diſtribution of the <hi>paſchall bread,</hi> they uſed theſe words, <hi>This is the bread of affliction, which our fathers ſuffered in Egypt.</hi> A ſanctified remembrance of Gods affli<g ref="char:EOLhyphen"/>cting Hand, is very uſefull, for tempering ſpirits, in a day of de<g ref="char:EOLhyphen"/>lyverance.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>Third.</label> A Third doctrine ſhall be this, <hi>It is but a tranſient view of affli<g ref="char:EOLhyphen"/>ction which the Lord gives to his own.</hi> The word of the text is very remarkable as to this, <hi>Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> haſt</hi> S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>EWED <hi>me great &amp; ſore troubles David</hi> had been under very ſharp troubles, if ſenſe may be judge:
+<pb n="8" facs="tcp:154285:10" rendition="simple:additions"/>
+but faith corrects ſenſe. Its but a <hi>ſhew,</hi> but a view of trouble, which I have had, ſayes beleeving <hi>David</hi> I ſhall cleare the poynt by a few reaſons.
+
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> As firſt, The ſting is taken out of the afflictions of beleevers; hence they ſpeak in ſcripture of their evils, rather as ſeeming evils, then reall, II. Cor. 6. 9. 10. 11. <hi>As dying, yet behold we live: as chastned, and not killed, as ſorrowfull, yet alwayes rejoy<g ref="char:EOLhyphen"/>eing: as poor, yet making many rich; as having nothing, yet poſſeſſing all things.</hi> He puts, as one ſaies, a <hi>tanqua<g ref="char:cmbAbbrStroke">̄</g>,</hi> an <hi>as,</hi> upon all his &amp; the people of God their afflictions, as if they were more in ſeem<g ref="char:EOLhyphen"/>ing, then in reali<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie.
+
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Secondly, As the ſting is taken away, ſo the Lord ſweetneth rods to beleevers, by his own gracious pre<g ref="char:EOLhyphen"/>ſence. <hi>Hee is with them in fire and water,</hi> Iſai 43. 2. The refreſh<g ref="char:EOLhyphen"/>ing influence of his gracious preſence made ſome, call their pri<g ref="char:EOLhyphen"/>ſon, an <hi>Orchard of delights,</hi> and others to ſing at the <hi>stake.</hi> Hence ſaid one, <hi>Tua praſentia Domine, Laurentio ipſam craticula<g ref="char:cmbAbbrStroke">̄</g> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulcem fe<g ref="char:EOLhyphen"/>cit.</hi> Thy gracious preſence O Lord, made the burning gridiron ſweet to <hi>Laurence,</hi> when he was roſted alive upon it.
+
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> And thirdly, (not to adde more reaſons) the afflictions of Saints in tyme, are, as was ſaid of <hi>Julians</hi> perſecution. but <hi>a paſſing clond.</hi> What were all the hardſhips which <hi>David</hi> met with from <hi>Saul,</hi> after he was peaceably ſetled on the thron, but as the remembrance of a ſhew upon a ſtage? When <hi>Abſoloms</hi> conſpiracie was diſcuſſed, what was the remembrance thereof, but <hi>like a dream</hi> when it paſt?
+
+<label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> Is there not here unſpeakable comfort to the people of God? Its but a tranſient view of afflictions they have here in time, when they are up in glory, cloathed with robs of immortality, with palmes in their hands, what will the remembrance of the afflicti<g ref="char:EOLhyphen"/>ons of tyme be to them, but as a dream when its gone? Now my earneſt deſire to the Lord is, that all the bitter tryals, with which the <hi>Royall familie</hi> have been hitherto exerciſed, may bee ſwallowed up, with ſuch a bleſſed and ſanctified proſperity for the future, that all their former ſufferings may be as a dream whe<g ref="char:cmbAbbrStroke">̄</g> its paſt, as a <hi>ſhew</hi> upon a ſtage, when its withdrawn. And this for the 1. branch of the text, <hi>Thou haſt ſhewed me great &amp; ſore troubles.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>The ſecond branch of the text.</hi>
+               </note>I come to the ſecond branch, wherin faith promiſes a glori<g ref="char:EOLhyphen"/>ous out-gate to <hi>David</hi> from all his troubles. <hi>Thou ſhalt quicken me againe, and ſhalt bring me up againe, from the deepths of the earth.</hi> As if he had ſaid, I am like a man dead and buried; I am laid in the<note place="margin">
+                  <hi>explication of the ſeco<g ref="char:cmbAbbrStroke">̄</g>d branch.</hi>
+               </note> deepths of the earth. <hi>In abyſſis</hi> ſayes <hi>Tremell. In voraginibus <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erra,</hi> ſays <hi>Pagnin. Swallowed up in the g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s of the earth.</hi> I am civilly dead
+<pb n="9" facs="tcp:154285:10"/>
+and buried, laid by as a broken veſſell in the thoughts of the people, wherof can be no more uſe. So ſpoke <hi>ſenſe:</hi> O but ſayes <hi>Faith,</hi> there ſhall be a reſurrection. <hi>Thou O Lord wilt returne and quicken me, yea Thou wilt bring me up from the depths of the earth.</hi> Though I be low, yet thou wilt exalt me. This was much; yet <hi>Da<g ref="char:EOLhyphen"/>vids</hi> faith reſts not here, it goes on, <hi>Thou ſhalt increaſe my greatnes; multiplicabis magnitudinem meam</hi> ſayes <hi>Montanus,</hi> thou ſhalt mul<g ref="char:EOLhyphen"/>tiplie my greatnes, thou ſhalt make my ſtate, grandour &amp; dignity more eminent then ever, and far beyond my predeceſſors, and ſo indeed it was. And yet more, ſayes he, <hi>Thou ſhalt comfort me on every ſyde, circuibis, conſolaberis me,</hi> ſo <hi>Montan.</hi> thou ſhalt compaſſe me &amp; comfort me, that is, thou ſhalt ſurround me with comfort: as my afflictions have abounded, ſo ſhall my comforts. Thus yee have a ſhort explication of this branch, I only give two ſhort doctrines from it that I may paſſe thorow the text.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>firſt.</label> 
+               <hi>Doct. first. Its a very dark clo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, through which faith will not ſee an out-gate.</hi> Its deep trouble indeed, wherin faith will not ſee a vi<g ref="char:EOLhyphen"/>ſion of peace. <hi>David</hi> now was under great &amp; ſore trouble, yet be<g ref="char:EOLhyphen"/>hold what his faith ſayes; <hi>Thou ſhalt quicken me againe, and bring me up from the depths of the earth, thou ſhalt encreaſe my greatnes, and comfort me on every ſyde.</hi>
+
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>firſt.</label> A <hi>Firſt reaſon</hi> may be, <hi>Faith is the evidence of things not ſeen,</hi> H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b. 11. 1. when <hi>ſense</hi> ſaies, <hi>It will not be<g ref="char:punc">▪</g>
+               </hi> when <hi>rea<g ref="char:EOLhyphen"/>ſon</hi> ſaies, <hi>It cannot be,</hi> then <hi>faith</hi> ſaies, <hi>It ſhall be;</hi> I ſee it, ſaies faith, <hi>Though I ſit in darknes, the Lord ſhall be a light unto me,</hi> Micah, 7. 8. Yea it realizes things abſent, <hi>Trem.</hi> reades theſe <hi>prophecies</hi> of <hi>faith</hi> in my text, in the preſent. <hi>Pagnin</hi> in the pret. imperfect. <hi>Vivificabas, faci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bas aſcendere, multiplicabas, conſolabaris.</hi> Faith aſſures the heart as much of promiſed mercies, as if they were already enjoyed.
+
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſō </seg>ſecōd.</label> 
+               <hi>Secondly,</hi> When faith acteth upon a promiſe, it contemneth all difficulties. I ſee, ſayes <hi>faith,</hi> theſe and the other difficulties in the way, but <hi>faithfull is he who hath promiſed;</hi> the mouth of the Lord hath ſpoken, &amp; he will performe.
+
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſō </seg>third.</label> 
+               <hi>Thirdly,</hi> Faith ſaileth in a room ſea. It improveth infinite Omnipotencie, the almighty power of God. Rom. 4. 20. 21. <hi>Abraham ſtaggered not at the promiſe, through unbeliefe being fully perſwaded that what he had promiſed, he was able to perform.</hi> Hence it is ſaid, <hi>All things are poſſible to him that believeth</hi> Mark 9. 23.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> Dear people ſtudy the cleanly exerciſe of this precious grace of <hi>faith;</hi> it will prove a brave ſupporter in a day of ſtrait: when ſenſe and reaſon are <hi>miſerable comforters,</hi> and ready to ſay, there
+<pb n="10" facs="tcp:154285:11"/>
+is no help for thee in God, now thou art fallen and ſhall never riſe againe: then faith will prophecie good things as in my text; <hi>Yet God will quicken me againe, and bring me up from the depths of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arth.</hi> O happy they! who know by experience, what this jewel <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>faith is. Surely I know nothing, which could have upheld, either our late gracious <hi>SOVERAIGN,</hi> or his <hi>MAJESTY</hi> who now is, under their incomparable ſufferings, but this heavenly grace of faith. <hi>The juſt lives by faith,</hi> Hab. 2. 4. faith maketh the beleeving ſufferer, <hi>more then Conquero<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctrine </seg>ſecond,</label> But I come to the ſecond and maine doctrine at which I drive <hi>It is not unuſuall with our Lord to raiſe theſe eminently, whom he hath laid once very low.</hi> How low was <hi>David</hi> brought under <hi>Sauls</hi> per<g ref="char:EOLhyphen"/>ſecution, when he was forced to flee among heathens; and once had no other way to ſave his life, but by feigning himſelf mad? How low was he brought by <hi>Abſolem,</hi> when he is put to flee bare-footed from Ieruſalem; when a dog like <hi>Shimei</hi> durſt come and throw ſtones at him? yet after all this, the Lord did honour him exceedingly, and as my text ſpeaketh, <hi>The Lord did increaſe his greatnes and comfort him on every ſyde.</hi> I give but another in<g ref="char:EOLhyphen"/>ſtance. How low was <hi>Iob</hi> brought? ſtript of all his eſtate, &amp; be<g ref="char:EOLhyphen"/>reaved of all his children in one day: moreover ſmitten with loathſom diſeaſes in his perſon, the arrows of God, in the meane while, drinking up his ſpirit: yea, and under ſuch temptations, that as he ſpeaketh cap. 7. 15. he was ready <hi>to choyſe ſtrang<g ref="char:EOLhyphen"/>ling &amp; death rather then life,</hi> yet as you reade, c. 42. 10. 12. <hi>The Lord <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urned <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ask the captivity of Iob, &amp; his latter end was more prosperons <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen the firſt; at firſt, he had</hi> 7000 <hi>ſheep</hi> cap. 1. v. 3. <hi>at laſt, be had</hi> 14000 cap. 43. v. 12. <hi>at firſt, he had</hi> 3000 <hi>camels,</hi> cap. 1. v. 3. <hi>at liſt, he had</hi> 6000 cap. 42. v. 12. and ſo the ſpirit of God goes on cap. 42. doubling his eſtate in his latter dayes, beyond what it was before.</p>
+            <p>For reaſons take theſe few hints, The Lords does ſo,
+
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>firſt.</label> 
+               <hi>Firſt,</hi> to ſhew his Almighty power that he can help at a dead lift; even when creatures are laid in the depths of the earth.
+
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſō </seg>ſecōd.</label> 
+               <hi>Secondly,</hi> to manifeſt his faithfulnes, that he is a God who keepeth promiſe. Providence may ſeem to croſſe promiſes for a ſeaſon; yet the Lord is ever myndfull of his promiſe, and therefore in end will ſuffer nothing to fall to the ground of all the <hi>good word</hi> which he hath ſpoken.
+
+<label type="milestone">
+                  <seg type="milestoneunit">Reaſō </seg>third.</label>
+               <hi>Thirdly,</hi> To engage thoſe whom he thus ſignal<g ref="char:EOLhyphen"/>ly exalteth, to tune up a ſong of praiſe to him, Pſalm 40, 2. <hi>The</hi>
+               <pb n="11" facs="tcp:154285:11"/>
+               <hi>Lord brought me up out of an horrible pit, and out of the myrie clay, and ſet my feet upon a rock and eſtabliſhed my goings.</hi> Now what was the reſult of his deliverance, is ſubjoined v. 3. <hi>He put a new ſong in my mouth, even praiſe to our God.</hi>
+
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> And <hi>Fourthly,</hi> to engage them to be zealous for him and his intereſts. Sure it becomes them, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> whom the Lord hath done great things, to ſay, <hi>Quid retribuam Demino?</hi> What ſhall I render to the Lord, Pſalm 116. 12.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> The poynt might afford many uſes, ſpecially for the conſola<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion and ſtrengthening of the hands of afflicted ones; but theſe I forebeare to day. Only this one; We have to remember to day, to the Lords praiſe, as ſignall a providence in exalting <hi>Our SO<g ref="char:EOLhyphen"/>VERAI<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>N Lord the KINGS MAIESTY,</hi> to the throne of his <hi>ROYALL FATHER</hi> of eternall memory, as either <hi>David,</hi> or any Prince mentioned in ſacred or prophane hiſtory, did ever meet with. If ye conſider <hi>firſt</hi> the low and lamentable condition, to which his <hi>Sacred MAJESTY</hi> was brought, theſe diverſe years <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bygone. <hi>Secondly,</hi> The manifold attempts with great and potent Armies for his deliverance, all which were blaſted. <hi>Thirdly,</hi> The unexpectednes of this revolution: ſurely, <hi>When the Lord turned our captivity we were as thoſe who dreamed,</hi> Pſalm 126. 1. <hi>Fourthly,</hi> the poynt of tyme, when the Lord appeared, namely, when our confuſions wer like to be greater, &amp; our yoke heavier then ever. So that <hi>at evening tyme</hi> (as <hi>Z<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch.</hi> ſpeaketh c. 14. 7.) when all were fearing mid-night darknes, <hi>The Lord hath made light to ariſe.</hi> And <hi>Fifthly,</hi> which is no leſſe admirable then any of the former, that ſo great a change, ſhould be carried on without blood. There have been many ſtrange changes in <hi>Britaine</hi> within theſe twenty years, but ſurely none like to this, wherin the gracious hand of divine providence hath ſo ſignally appeared. Verily we may ſing and ſay with our Royall Pſalmiſt, Pſal. 118. 22. 23. 24. <hi>The ſtone which the builders refuſed, is become the head of the corner. This is the Lords doing, it is marvellous in our eyes. This is the day which the Lord hath made, we will be glad and rejoyce in it.</hi>
+            </p>
+            <p>Now that I may cloſe this doctrine, and withall the ſecond<note place="margin">
+                  <hi>Three hope<g ref="char:EOLhyphen"/>full deſires.</hi>
+               </note> branch of the text, there are three things which from my heart I both wiſh and hope from the Lord, to his <hi>MAJESTIE:</hi> &amp; they ought to be all our deſires and hope, in his behalfe. The <hi>first</hi> is,
+
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> that the promiſe of my text may be fulfilled in him, viz. <hi>That the Lord would increaſe his greatnes and confort him on every ſide;</hi> that he may be the moſt glorious, renowned &amp; trulie bleſſed <hi>KING,</hi> that
+<pb n="12" facs="tcp:154285:12"/>
+ever <hi>Britaine</hi> injoyed. I wiſh, that <hi>Patriarchall</hi> Bleſſing to him which <hi>Jacoh</hi> Propheticallie pronounced upon <hi>Ioſeph</hi> Gen. 49. 25. 26. <hi>The Bleſſings of heaven above, The Bleſſings of the depth that lyes under, The Bleſſings of the breasts and of the womb, Bleſſings, beyond all the bleſſings of his progenitors, unto the utmoſt bound of the everlaſting hils, be upon the head of our Ioſeph, upon the Sacred head of our Gra<g ref="char:EOLhyphen"/>cious SOVERAIGN, whom the Lord hath ſeparated to rule ever</hi>
+               <note place="margin">TERTUL. Apolog <hi>c.</hi> 30. <hi>Deni<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſine monito<g ref="char:EOLhyphen"/>re, quia de pectore ora<g ref="char:EOLhyphen"/>mus,</hi> (Note here, that from this phraſe, <hi>ſine Monitore quia de pe<g ref="char:EOLhyphen"/>ctore,</hi> ſome learned men have obſerved, that CHRISTIAN'S in <hi>Tertul<g ref="char:EOLhyphen"/>lians</hi> time, did not wholly tye themſelves, to ſtinted liturgicall formes in prayer,) <hi>precantes ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us ſemper pro omnibus Imperatori<g ref="char:EOLhyphen"/>bus, vitam illis prolixam, Imperium ſecurum, domum tutam, exerci<g ref="char:EOLhyphen"/>tus fortes, Senatum fidelem, populum probum, orbem quietum, que<g ref="char:EOLhyphen"/>cunque hominis et CAESARIS vota ſunt.</hi>
+               </note> 
+               <hi>his people in theſe Nations.</hi> Bleſſed be he in his Royall Perſon, In his Counſels and Government, in his Allyes abroad, in his Sub<g ref="char:EOLhyphen"/>jects of all ranks at home, in his Parliaments, Armies, Navies, Nobilitie, Gentrie, Borroughs, Miniſters of the Goſpell &amp;c. Let him be bleſt <hi>Bonis Throni et Scabelli, Poliet Soli:</hi> both with Bleſ<g ref="char:EOLhyphen"/>ſings of the throne and of the footſtool, with an eminent mea<g ref="char:EOLhyphen"/>ſure, both of Saving graces, and Kingly graces with length of dayes, a flouriſhing Crown, with Loyal ſubjects, with a thriving Goſpell &amp; Church, with pure &amp; ſpirituall ordinances through<g ref="char:EOLhyphen"/>out his Dominions. Thus ſhall the promiſe of the text be accom<g ref="char:EOLhyphen"/>pliſhed, <hi>His greatneſſe ſhall be increaſed, &amp; he comforted on every ſide.</hi>
+            </p>
+            <p>My ſecond wiſh, (which alſo I hope) is, that with <hi>David</hi> in my Text, <hi>He may look on the Lord, as the God of all his mercies, and</hi>
+
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>firſt Fountain of them.</hi> DAVID doth not attribute theſe great things, which here he expects, either to <hi>Joabs</hi> gallantry or <hi>Hu<g ref="char:EOLhyphen"/>ſhai's</hi> policy; though both wer greatly inſtrumentall in this deli<g ref="char:EOLhyphen"/>vera<g ref="char:cmbAbbrStroke">̄</g>ce of <hi>David,</hi> &amp; in overturning this co<g ref="char:cmbAbbrStroke">̄</g>ſpiracy of <hi>Abſolom;</hi> But he looks above all unto God, as the <hi>firſt</hi> Spring, the <hi>firſt</hi> wheel, the <hi>firſt</hi> Mover: <hi>THOU O Lord</hi> (ſaid he) <hi>ſhalt quicken me againe, THOU ſhalt raiſe me up, THOU ſhalt inereaſe my greatnes THOU ſhalt co<g ref="char:cmbAbbrStroke">̄</g>fort me on every ſide.</hi> GOD was all in all to him. IT is far fro<g ref="char:cmbAbbrStroke">̄</g> my purpoſe, to undervalue the atchievments of Inſtruments, or to derogate in the leaſt, from the high reſpect, that is due to them. Succeeding Generations will bleſſe that truely <hi>Noble, Valorous</hi> and <hi>Loyall GENERALL MONCK:</hi> Whom God
+<pb n="13" facs="tcp:154285:12"/>
+hath chiefly honoured, as an Inſtrument in the work; Neither ſhould <hi>Huſhas's</hi> be forgotten, who by counſel have been aſſiſting; I hope theſe who have been moſt inſtrumentall, <hi>have learned Chriſt better,</hi> then to offend, that I ſay, The Lord ſhould be loo<g ref="char:EOLhyphen"/>ked to, as the firſt Authour of all. Nay, themſelves muſt, &amp; will acknowledge, all their inſtrumentality to be of Him. O ſo ſig<g ref="char:EOLhyphen"/>nally as the Lords hand hath appeared, therefore let Him above all be looked to: and this will help, through his bleſſing, to the ſanctified improvment of theſe late mercies.</p>
+            <p>But my third deſire, (which I likwiſe waite and hope for) is
+
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>That OUR SOVERAIGN</hi> like another <hi>DAVID, may be Zealous for God, and the precious intereſts of the Goſpell.</hi> O how zealous was <hi>David</hi> for the Lord, pſal. 69. 9. <hi>The zeale of thy Houſe,</hi> ſaid he, <hi>hath eaten me up.</hi> O what zeale witneſſed he in dancing be<g ref="char:EOLhyphen"/>fore the Ark, when he brought it up to mount <hi>Zion,?</hi> II. <hi>Sam.</hi> 6. 14. 15. and II. <hi>Sam.</hi> 7. <hi>What,</hi> ſaid he, <hi>ſhall I dwell in Cedar, and the Ark of God abide in Courtains?</hi> And thereupon reſolveth to build a <hi>Temple</hi> to the Lord. Rich preparations made he for the Work, as may be ſeen, <hi>I. Chron.</hi> chapters 28. 29. Yea, &amp; would alſo have accompliſhed it, if the Lord had not ſtopt him, and told him by the mouth of <hi>Nathan,</hi> That he would have the<note place="margin">Hieron. in Titum. c. 1. <hi>Epiſcopino<g ref="char:EOLhyphen"/>verint, ſe co<g ref="char:cmbAbbrStroke">̄</g>ſuetudine magis, quam dispoſitionis dominica ve<g ref="char:EOLhyphen"/>ritate, Preſ<g ref="char:EOLhyphen"/>biteris eſſe majores.</hi>
+               </note> 
+               <hi>Temple</hi> built by a <hi>Solomon.</hi> The Lord was ſo well pleaſed with <hi>Davids</hi> purpoſe, That II. <hi>Sam.</hi> 7. 11. and 16. he promiſes to <hi>build</hi> David <hi>an houſe, and to establiſh his Throne for ever.</hi> The Lord <hi>honours thoſe who honour him,</hi> I. <hi>Sam.</hi> 2. 30. The ſureſt way Princes can take for eſtabliſhment of their Throns, is to be zea<g ref="char:EOLhyphen"/>lous for, and tender of the <hi>Intereſts of JESUS CHRIST, his Truth, his Ordinances, his Servants and People.</hi> Wee have there<g ref="char:EOLhyphen"/>fore to day, earneſtly to pray, That <hi>OUR GRACIOUS SOVERAIGN</hi> may be a zealous Defender of the <hi>Proteſtant CAUSE,</hi> and Ordinances of Chriſt in their <hi>purity,</hi> That <hi>Prelacy, ſuperſtition,</hi> &amp; Ordinances which at not of <hi>Divine inſtitution,</hi> may not creep in into the Worſhip of GOD within our <hi>Church.</hi>
+               <note place="margin">Whittak. <hi>ad ratione<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 10. <hi>Campiani.</hi> Si preces pro mortuis damnare &amp; Epiſcopo presbiterum aequa<g ref="char:EOLhyphen"/>re, <hi>ſit hareticum, nihil Catholicum eſſe poteſt.</hi> Cum AERIO Hieronymꝰ <hi>de preſ<g ref="char:EOLhyphen"/>biteris omnino ſenfit. illos cuim jure divine Epiſcopis aquales eſſe statuit.</hi>
+               </note>
+            </p>
+            <p>Yet am I not of the judgement, That Princes rights to their Crownes, depends upon their <hi>erthodoxie in judgement;</hi>
+               <pb n="14" facs="tcp:154285:13"/>
+I cordially ſubſcrive to the pure Primitive Loyalitie of ancient Chriſtians,<note place="margin">
+                  <hi>See Confeſſ. of Faith, c.</hi> 23, <hi>art.</hi> 4.</note> who retained their allegiance, under <hi>Heathen</hi> &amp; <hi>Arri<g ref="char:EOLhyphen"/>an</hi> Emperours; under <hi>Infidell</hi> &amp; <hi>Heretick Princes,</hi> aſwell as un<g ref="char:EOLhyphen"/>der theſe who wer ſound &amp; orthodox in their judgements: for as AUGUST. ſaid, <hi>Qui regnare dedit CONSTANTINO Chriſtians, ipſe dedit Apostatae I<g ref="char:V">Ʋ</g>LIANO.</hi> Hee who gave the Imperiall Crowne to <hi>CONSTANTINE</hi> a Chriſtian, gave it alſo to <hi>I<g ref="char:V">Ʋ</g>
+                  <g ref="char:EOLhyphen"/>LIAN</hi> the Apoſtate: But bleſſed be the Lord, we have not an <hi>Heathen Prince:</hi> wee have not an <hi>Arrian Prince:</hi> we have not a <hi>Popiſh Prince:</hi> but a <hi>PRINCE,</hi> Who hath conſtantly adhered to the <hi>Proteſtant Religion,</hi> in the furnace of affliction, notwith<g ref="char:EOLhyphen"/>ſtanding<note place="margin">Defenſor <hi>almae qui</hi> fidei <hi>clues, <g ref="char:V">Ʋ</g>nius idem tu fidei, Dei <g ref="char:V">Ʋ</g>nius, uniuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Chriſti Semper er<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, es, eri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> profeſſor. O perge (pergens tu perages) manu Forti, &amp; ſecundis uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> laboribus Rem Chriſtianam promovere, Romuleo gravis Antichriſto.</hi> Decachordon concinens liberatio<g ref="char:EOLhyphen"/>nem Britannicam Autore. <hi>T. G.</hi>
+               </note> he was compaſſed with as many temptations, as ever any <hi>Prince</hi> was aſ<g ref="char:EOLhyphen"/>ſaulted with. We have a <hi>PRINCE</hi> Who by his <hi>Royall Authority,</hi> hath confirmed to us the <hi>Proteſtant Religion</hi> in its <hi>purity:</hi> without the mixture of theſe <hi>humane in<g ref="char:EOLhyphen"/>ventions.</hi> This is a <hi>Mercy</hi> for which we ar to magnifie the Lord to day, that we have ſuch a <hi>PRINCE</hi> under whom wee may enjoy the Ordinances of Chriſt in their <hi>Purity:</hi> And though it were otherwiſe, (which God forbid) yet <hi>Loyalty</hi> is ſtill our duty as <hi>ſubjects;</hi> But let us be earneſt with the Lord by prayer; That our <hi>GRACIO<g ref="char:V">Ʋ</g>S SOVERAIGN</hi> may be kept in the way of <hi>truth,</hi> that he may be a zealous Defender thereof and of the Ordinances of IESUS CHRIST in their purity, according to their <hi>firſt Inſtitution;</hi> This will make Him an <hi>Eminent BLESSING</hi> to his people: and his people truely <hi>blest</hi> in him, and will give ſtrong ground of confidence of fulfilling the Promiſe in my Text; <hi>That God will increaſe his greatneſſe, and comfort him on every ſide.</hi>
+            </p>
+            <p>I come to the third and laſt branch of the Text, in verſ. 22. Wherein <hi>David</hi> ſolemnly engages to bee forthcoming to the<note place="margin">
+                  <hi>The third branch of the Text.</hi>
+               </note> Lords praiſe. <hi>I alſo will praiſe thee,</hi> &amp;c. Yee have heard <hi>David</hi> expreſſing his ſenſe of his <hi>afflictions;</hi> yee heard how his <hi>Faith</hi> &amp; <hi>hope</hi> did prophecie of an <hi>Out-gat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> Now yee have <hi>Davids</hi> heart; enflamed with love to God, upon the confidence of this hoped for <hi>deliverance,</hi> engaging to tune up a Song of praiſe, yea anti<g ref="char:EOLhyphen"/>dating a ſong of <hi>Thanks-giving.</hi> The <hi>words</hi> are exceeding ſweet, but time will not permit me to inſiſt on them. I intend onely
+<pb n="15" facs="tcp:154285:13"/>
+after I have runne thorow them, by a few explicatory hints, to propoſe one doctrine from them.</p>
+            <p>There are five obſervable words in the <hi>verſ.</hi> Which we would<note place="margin">
+                  <hi>Five obſer<g ref="char:EOLhyphen"/>vable words in it.</hi>
+               </note> notice<g ref="char:punc">▪</g> THE FIRST, <hi>I will alſo praiſe thee,</hi> as if he had ſaid, I have prayed and poured out my ſoul, by ſupplication before
+
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> thee; And <hi>Faith</hi> hath brought me in a gracious returne of <hi>Prayer:</hi> That there ſhall be a comfortable <hi>Out-gat<g ref="char:punc">▪</g>
+               </hi> therfore I ALSO will praiſe thee. <hi>Prayer</hi> is a very fruitfufull duty. Its the womb, if I may ſo ſpeak, wherein the <hi>Praiſes</hi> of God are conceived. Would yee have your <hi>Praiſes</hi> accepted to day? let them not be disjoy<g ref="char:EOLhyphen"/>ned
+
+<milestone type="tcpmilestone" unit="unspecified" n="2"/> from <hi>Prayer.</hi> Its ſweet when theſe two, <hi>Prayer</hi> and <hi>Praiſe,</hi> go together. <hi>I</hi> ALSO <hi>will praiſe thee<g ref="char:punc">▪</g>
+               </hi> The <hi>ſecond word</hi> is, <hi>Even thy truth,</hi> that is, Thy true and faithfull <hi>Promiſe.</hi> O ſo precious as <hi>Promiſes</hi> are to them who improve them, and eſpecially to thoſe, who by a beleeving improvement, find them made good! Such will magnifie promiſes indeed, <hi>even thy truth.</hi> But then thirdly,
+
+<milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>O my GOD,</hi> Its ſweet, when <hi>faith</hi> in a dark houre, can plead its intereſt in God. <hi>David</hi> was under great and ſore trouble, yet <hi>Faith</hi> pleads its intereſt. Hee is <hi>my God.</hi> I will not ſay, but <hi>faith</hi> in an houre of temptation may be ſore ſhaken. Saves not <hi>David</hi> himſelf, <hi>Pſal.</hi> 31. 22. <hi>I ſaid in my haſte, I am cutt off<g ref="char:punc">▪</g>
+               </hi> and I. <hi>Sam.</hi> 27. 1. <hi>I ſhall now periſh one day by the hand of</hi> SAUL. But theſe wer onely ſwooning fits of faith: his faith recovered ſtrength again,</p>
+            <p>The <hi>fourth word</hi> is, <hi>I will praiſe thee with the Pſaltery, I will ſing praiſe to thee with the harp.</hi> IT was the cuſtome of old in the <hi>Jewiſh</hi>
+
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+               <hi>Church,</hi> to make uſe of theſe and other Muſicall Inſtruments in the Worſhip of God, as appears almoſt everie-where in this book of the <hi>Pſal<g ref="char:EOLhyphen"/>mes,</hi>
+               <note place="margin">
+                  <hi>Of the forme of theſe Instruments,</hi> ſee Ioſeph. <hi>lib.</hi> 7. Antiq. IUD. <hi>cap.</hi> 10. POLYD. VERGIL <hi>de inventoribus re<g ref="char:EOLhyphen"/>rum,</hi> lib. 1. <hi>cap.</hi> 15. HOSPIN. <hi>de Tem<g ref="char:EOLhyphen"/>lis,</hi> lib. 2. <hi>cap.</hi> 23. <hi>Engliſh annot.</hi> on <hi>I. Chron.</hi> 13. 8. Alſo the epiſt, to <hi>Dar<g ref="char:EOLhyphen"/>danus, de Muſicis inſtrumentis,</hi> among <hi>Hieroms</hi> works.</note> and from <hi>I. Chron.</hi> 13. 8. Though <hi>Procopius Gazaeus</hi> cited by HOSPINIAN <hi>de templis,</hi> lib. 2. <hi>cap.</hi> 23. ſpares not to ſay, <hi>Cultum hunc non a Deo traditum, ſed a Davide excogitatum fuiſſe.</hi> That this Worſhip was an humane invention of <hi>Davids,</hi> not a <hi>Divine Inſtitution.</hi> Too bold an <hi>affertion,</hi> and very reflexive u<g ref="char:EOLhyphen"/>pon ſo holy a <hi>Prophet</hi> as w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a our <hi>Roy<g ref="char:EOLhyphen"/>all Pſalmiſt.</hi>
+            </p>
+            <p>
+               <note place="margin">QUEST. <hi>Whether</hi> organicall Muſick <hi>may bee vſed in the</hi> Goſpel<g ref="char:EOLhyphen"/>Church?</note>But if any ask, whether it be law<g ref="char:EOLhyphen"/>full to mak uſe of <hi>organical Muſick</hi> in
+<pb n="16" facs="tcp:154285:14"/>
+               <note place="margin">
+                  <hi>Juſtin Mar. queſt</hi> 107. a<g ref="char:EOLhyphen"/>fter he had moved this queſtion; <hi>cur cantu e<g ref="char:EOLhyphen"/>tia<g ref="char:cmbAbbrStroke">̄</g>num uta<g ref="char:EOLhyphen"/>tur Eccleſiae Chriſtiana</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. he an<g ref="char:EOLhyphen"/>ſwers, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. Hoc eſt, In<g ref="char:EOLhyphen"/>terprete IOANNE LANGIO, <hi>ſimplici<g ref="char:EOLhyphen"/>ter canere inſipientibus non convenit; ſed inſtrumentis inanimatis et crotalis cum ſaltatione canere; quo circa in Eccleſiis non uſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> carminum,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>per ejus generis inſtrumenta &amp; alia inſi<g ref="char:EOLhyphen"/>pientibus congruentia receptu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> eſt. Sed ſimplex Cantio in iis manet<g ref="char:punc">▪</g>
+                  </hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>the Worſhip of God now under the <hi>Goſpell?</hi> ITS long agoe an<g ref="char:EOLhyphen"/>ſwered by an Ancient Author in theſe queſtions <hi>ad Orthodoxos,</hi> which ar attributed to <hi>Iustin Martyr.</hi> QUAEST. 107. where he ſaies, <hi>That the Ancient Chriſtian Church abandoned that Pedagogicall custome: as rather beſeeming Children and the infant-state of the Church: then the Church under the Gospel, &amp; retained onely vocall ſinging.</hi> Which ſaies HOSPINIAN. <hi>ibid,</hi> was doubtles done by theſe Worthies, according to the paterne of the <hi>Apo<g ref="char:EOLhyphen"/>ſtolick Church.</hi>
+               <note n="¶" place="margin">
+                  <hi>Chryſoſt,</hi> on <hi>Pſal.</hi> 150. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. &amp;c.</note> CHRYSOST, on <hi>pſal.</hi> 150. <hi>ſaies,</hi> That this Inſtrumental <hi>Mu<g ref="char:EOLhyphen"/>ſick</hi> was permitted to the <hi>Iews,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>becauſe of their weakneſſe.</hi> And makes onely this Mo<g ref="char:EOLhyphen"/>rall improvment thereof for us under the Goſpel: As (ſaid he,) <hi>The Iews prai<g ref="char:EOLhyphen"/>ſed God with all Inſtruments of Muſick:</hi> ſo Chriſtians are co<g ref="char:cmbAbbrStroke">̄</g>manded to praiſe with all the members of their bodies, with <hi>eyes, eares tongue, hands</hi> &amp;c. The like Morall application is made there<g ref="char:EOLhyphen"/>of by his diſciple <hi>Iſidor. Peleuſ.</hi> lib. 1. Epiſt. 457. <hi>and</hi> lib. 2. Epiſt. 176. Hee puts the <hi>Jewiſh</hi> inſtrumentall muſick by <hi>harp</hi> and <hi>pſaltery</hi> in the ſame rank with their <hi>ſacrifices;</hi> which al acknow<g ref="char:EOLunhyphen"/>ledge to have been <hi>typicall.</hi> His <hi>words</hi>
+               <note place="margin">
+                  <hi>Iſidor. Peleuſ.</hi> lib. 2. Epiſtl. 176. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> as tendered by BILLIUS in <hi>latine,</hi> are thoſe; <hi>Quum</hi> (ſaies he) <hi>Divinu<g ref="char:cmbAbbrStroke">̄</g> Nu<g ref="char:EOLhyphen"/>men victimas &amp; cruores ob puerilitatem in qua tum homines verſabantar tolera<g ref="char:EOLhyphen"/>rit; Quid miraris quod eam quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> qua per Cytharam &amp; Pſalterium celebratur muſicam tolerarit?</hi> The meaning is, Seing the Lord permitted to the <hi>Jews</hi> their bloudy <hi>ſacrifices</hi> be<g ref="char:EOLhyphen"/>cauſe of the infancy of the Church-ſtate in thoſe dayes; Why ſhouldeſt thou wonder that he permitted to them alſo the uſe of Inſtrumentall Muſick by <hi>harp</hi> and <hi>pſaltery? Auguſt.</hi> is very frequent in drawing that <hi>Jewiſh</hi> cuſtome to anagogicall allu<g ref="char:EOLhyphen"/>ſions, in his <hi>Enarrations</hi> on the <hi>Pſalmes;</hi> particularly on <hi>Pſalme</hi>
+               <pb n="17" facs="tcp:154285:14"/>
+57. <hi>and</hi> 68. which to him are 56. <hi>and</hi> 67. Yea the Papiſts great Annaliſt <hi>Caſar Barronius</hi> ad annum Chriſti, 60. <hi>pag.</hi> 666. <hi>a.</hi> 37. is conſtrained to acknowledge, partly becauſe of that forecited teſtimony of <hi>Juſtin Martyr,</hi> partly becauſe of another, which he cites out of <hi>Auguſtine,</hi> on <hi>Pſal.</hi> 32. to us <hi>pſal.</hi> 33. That <hi>Orga<g ref="char:EOLhyphen"/>nicall Muſick</hi> had no place in the Church either in <hi>Juſtin Martyr</hi> or <hi>Auguſtin's</hi> dayes. I like well <hi>Barronius</hi> own phraſe, <hi>ab eccleſie modulatione fuiſſe proſcriptam;</hi> That this Inſtrumentall Muſick was baniſhed out of the Church religious Melodie. The teſtimo<g ref="char:EOLhyphen"/>ny of <hi>Auguſtine</hi> cited by <hi>Barronius</hi> is this. <hi>Nonne id egit instituti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in nomine Christi vigiliarum iſtarum, ut ex isto loco cytharae pelleren<g ref="char:EOLhyphen"/>tur?</hi> But <hi>Auguſtine</hi> hath as expreſſe a teſtimony a little after, which I thought good to adde; <hi>Nemo</hi> (ſaies he) <hi>ſe convertat ad ergana theatrica, quod ei jubetur in ſe habet, ſicut alibi dicitur. In me Deus vota tua, quae reddam, laudationes tibi.</hi> That is, Let no man be<g ref="char:EOLhyphen"/>take himſelf to <hi>theatricall organs,</hi> thou haſt within thy ſelf, O man, what God requires of thee, according to that which is elſ<g ref="char:EOLhyphen"/>where ſaid, <hi>Thy v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wes are upon me O God, I will re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>der praiſes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thee,</hi> pſal. 56. 12. But what need I more? ſeing <hi>Bellarm.</hi> lib. 1. <hi>de honis operibus,</hi> cap. 17. Confeſſes; That <hi>Organicall Muſick</hi> got firſt entrie into the Chriſtian Church onely in the dayes of Pope <hi>Vi<g ref="char:EOLhyphen"/>talian,</hi> ann. Chriſti, 660. according to <hi>Platina:</hi> or, ſaies hee, if wee will credit <hi>Almoynus,</hi> lib. 4. <hi>de geſtis Francorum,</hi> not untill the days of <hi>Lodovicus Pius</hi> 820 years after our Lords <hi>Incarnation.</hi>
+               <note place="margin">Nota <hi>ſecun<g ref="char:EOLhyphen"/>do</hi> (<hi>ſays</hi> Ca<g ref="char:EOLhyphen"/>jeta<g ref="char:cmbAbbrStroke">̄</g> in 2. 2. <hi>q</hi> 91. <hi>in art.</hi> 1. <hi>et</hi> 2.) <hi>quod tempore D. Thoma eccle <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a non ute<g ref="char:EOLhyphen"/>batur orga<g ref="char:EOLhyphen"/>nis.</hi>
+               </note> And, which is yet more, <hi>Aquinas</hi> in <hi>ſecunda ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>undae quaſt.</hi> 91. <hi>art.</hi> 2. ſpareth not to ſay; <hi>That the Chriſtian Church mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not uſe of Pſalters, harps or ſuch like inſtruments in praiſing the Lord, leſt ſhe ſhould ſeem to Judaize.</hi> And <hi>Cajetan</hi> commenting on that place of <hi>Thomas</hi> obſerves, That the Church did not uſe <hi>Organi<g ref="char:EOLhyphen"/>call Muſick</hi> in the dayes of <hi>Aquinas.</hi> That doctrine of <hi>Aqui<g ref="char:EOLhyphen"/>nas,</hi> and <hi>Cajetan's</hi> obſerve thereupon netles exceedingly the la<g ref="char:EOLhyphen"/>ter and more ſuperſtitious ſchoolmen. But the more ſober ſort of papiſts themſelves: as <hi>Eraſmus, Caj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tan, Lindanus</hi> and o<g ref="char:EOLhyphen"/>thers, have lamented the prophanation of the worſhip of God, by their Organicall &amp; Theatricall Muſick, as ſerving more to tickle<note place="margin">
+                  <hi>vidi ego</hi> (<hi>ſait es Hoſp.</hi> U. S.) <hi>aliquoties magna cum admiratio<g ref="char:cmbAbbrStroke">̄</g>e, plurim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s e <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>emplis exe<g ref="char:EOLhyphen"/>untes, quam<g ref="char:EOLhyphen"/>primu<g ref="char:cmbAbbrStroke">̄</g> dul<g ref="char:EOLhyphen"/>cis Organ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>rum ſonus ceſſaſſet: ta<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>tam devotio<g ref="char:EOLhyphen"/>nem in ani<g ref="char:EOLhyphen"/>mis homini<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:cmbAbbrStroke">̄</g> concitarat.</hi>
+               </note> the ſenſes with carnall delight, then to edifie the ſoul: In ſo much that <hi>Suarez.</hi> the <hi>Jeſuite,</hi> a violent defender of this ſuperſtition in his ſecond <hi>tom. de virtute et ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atu religionis lib.</hi> 4. <hi>cap.</hi> 8. confeſſeth, That it is not uſed in the <hi>Popes</hi> Chappell, <hi>Quia non tam gravis ju<g ref="char:EOLhyphen"/>dicatur,</hi> becauſe it ſavours not of ſuch gravity. If it ſavour not
+<pb n="18" facs="tcp:154285:15"/>
+gravity, why uſe they it in their Cathedral Churches? why is it at all permitted in the Worſhip of God, under the Goſpell? I can commend no better paterne, to Chriſtians under the Goſpell, then the example of <hi>Chriſt</hi> and his <hi>Apoſtles,</hi> I find them ſinging <hi>Hymns</hi> and <hi>Pſalmes Math.</hi> 26. 30. <hi>Acts</hi> 16. 25. and recommen<g ref="char:EOLhyphen"/>ding vocall praiſes to Chriſtians. That place is remarkable and appoſite to the work of the day, <hi>Eph.</hi> 5. 18. 19. <hi>Be not drunk with wyue wherein there is exceſſe</hi> (a head diſtempered with wine is more fit to ſacrifice to <hi>Bacchus,</hi> then to praiſe the moſt <hi>High God</hi>) <hi>But be filled with the Spirit.</hi> (ſure they have need of rich ſupplies and influences of the Spirit, who would be about this heavenly<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. In<g ref="char:EOLhyphen"/>terpreters <hi>do varie in expounding theſe</hi> three words. <hi>But generally they agree, that by them the</hi> Apoſtle <hi>understandeth all manner of spirituall ſongs, whether</hi> Euchariſtick, Didaſcalique, Prophe<g ref="char:EOLhyphen"/>tique, Threnetique, <hi>&amp;c.</hi> ſee <hi>Gomar</hi> &amp; <hi>Bodius</hi> on the place.</note> and Angelicall duty of praiſe) Then he addeth, <hi>Speaking to your ſelves in Pſalmes and Hymns and spirituall ſongs, ſinging and making melody in your hearts to the Lord.</hi> A parallel exhortation to this, <hi>Col.</hi> 3. 16. Neither is that unlike, <hi>Jam.</hi> 5. 13. <hi>Is any man afflicted among you, let him pray. Is any man merry let him ſing ſongs.</hi> But no where doeth <hi>Chriſt</hi> or his <hi>Apo<g ref="char:EOLhyphen"/>ſtles,</hi> in the Goſpell, commend <hi>Organi<g ref="char:EOLhyphen"/>call Muſick.</hi> Ancient Chriſtians, aboun<g ref="char:EOLhyphen"/>ded in vocall praiſes, as witneſſeth <hi>Ter<g ref="char:EOLhyphen"/>tull. Apologet. cap.</hi> 2. <hi>&amp;</hi> 39. <hi>Hierom. in his epiſt.</hi> 4. <hi>to Ruſticus, In epiſt.</hi> 17. <hi>to</hi>
+               <note place="margin">Hierom. <hi>in</hi> Epiſt. 17. <hi>under the names of</hi> Paula <hi>and</hi> Euſtochium <hi>to</hi> Marcella; In Christi villula tota ruſticitas, et extra Pſalmos ſilentium eſt, quocun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> te verte<g ref="char:EOLhyphen"/>ris arator <hi>ſtivam teneus</hi> Allelujah <hi>decan<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. Suda<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> meſſor <hi>pſalmis ſo avocat. et curva attendens vitem faloe</hi> vinitor, <hi>aliquid Davidicum canit. Heo ſunt in hac Provincia carmina: he ut vulgo di<g ref="char:EOLhyphen"/>citur amatori<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cantiones: hic pastorum ſibilus.</hi> Much ſinging here, but no word of <hi>Organ, Harp</hi> or <hi>Pſaltery.</hi>
+               </note> Marcella. <hi>Auguſt. in his Confeſſions, lib.</hi> 9. <hi>cap.</hi> 6. <hi>et</hi> 7. <hi>lib.</hi> 10. <hi>cap.</hi> 33. When <hi>Plinse</hi> the <hi>Second,</hi> was giving an ac<g ref="char:EOLhyphen"/>count to the <hi>Emperour Trajan</hi> of the ex<g ref="char:EOLhyphen"/>erciſes of Chriſtians, he tells, they had <hi>Ante-lucanos coetus, ad canendum Chriſto et Dee:</hi> They did meet betymes in the morning, preventing the riſing of the Sun, to ſing praiſes to the <hi>Lord</hi> and to his <hi>Chriſt.</hi> But no where find we them making uſe of <hi>Organicall Muſick</hi> in the Church and Worſhip of God.</p>
+            <p>
+               <note place="margin">See <hi>Hoſpi<g ref="char:EOLhyphen"/>nian.</hi> U. S. <hi>Para</hi>' in <hi>I. Cor.</hi> 14. 7. <hi>Gualier I. cor.</hi> 14. 7. 8.</note>From all this, it appears, That our ſoundeſt <hi>Divines</hi> have traced the footſteps of <hi>Christ,</hi> his <hi>Apoſtles</hi> and of pure Antiquity, in diſ<g ref="char:EOLhyphen"/>allowing <hi>Organicall Muſick</hi> in the publick Worſhip of God, as ap<g ref="char:EOLhyphen"/>pertaining to the old Leviticall pedagogie.</p>
+            <p>But to cloſe the point, The beſt Inſtrument wherewith any
+<pb n="19" facs="tcp:154285:15"/>
+               <note place="margin">8. <hi>Zepper</hi> de <hi>polit. Eccleſ.</hi> lib. 1. cap. 13. <hi>Mollerus</hi> praefat. ad comment.. in pſalmos. <hi>Muſ<g ref="char:EOLhyphen"/>culꝰ</hi> epiſt. dedicat. ante com<g ref="char:EOLhyphen"/>ment. in pſalmos. <hi>Rivet.</hi> in <hi>E<g ref="char:EOLhyphen"/>xod. c.</hi> 15. v. 21. <hi>Bodi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> in Eph<g ref="char:EOLhyphen"/>
+                  <hi>cap.</hi> 5. verſ. 18. 19. <hi>&amp;. c.</hi> 6. 18. <hi>Douglaſius</hi> tract. <hi>de Pſalmodia,</hi> part. 1. cap. 10. Beſide many more both <hi>Britiſh</hi> &amp; forreign <hi>Divines.</hi>
+               </note>can <hi>praiſe</hi> the Lord, is a beleeving and ſpirit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ally inlarged heart, <hi>Making Melodie in your heart,</hi> Eph. 5. 18. <hi>Singing, with grace in your hearts to the Lord,</hi> Col. 3. 16.<note n="*" place="margin">
+                  <hi>Non vox ſed votu<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:punc">▪</g> non chordula muſica ſedcor: Non clamans ſed amans, cantat in aure Dei.</hi>
+               </note> Hade this been wanting; all the Muſick which <hi>David</hi> made with <hi>Harp</hi> and <hi>Pſalterie,</hi> had not found ac<g ref="char:EOLhyphen"/>ceptance. I remember, <hi>Auguſtine in his Con<g ref="char:EOLhyphen"/>feſſions,</hi> makes mention of very lively impreſ<g ref="char:EOLhyphen"/>ſions, which he found on his ſpirit, in this pre<g ref="char:EOLhyphen"/>cious Ordinance of praiſing, in the Church. <hi>Quantum fleui</hi> (ſayes he lib. 9. Confeſſ. cap. 6<g ref="char:punc">▪</g>) <hi>in hymnis et cant<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cis tuis. ſuavè ſonantis Ec<g ref="char:EOLhyphen"/>cleſiae tuae vocibus, commotus acr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ter? voces illae, influebant auribus meis, et eliquabatur veritas tua in cor meum, et ex ea aſtuabat af<g ref="char:EOLhyphen"/>fectus</hi>
+               <note n="*" place="margin">AUGUST. lib. 10. <hi>Confeſſ.</hi> cap. 33. <hi>Quum mihi accidit ut me amplius cantꝰ qua<g ref="char:cmbAbbrStroke">̄</g> res quae canitur moveat, poenaliter me pe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>are confiteor.</hi>
+               </note> 
+               <hi>pietatis, currebant lachry<g ref="char:EOLhyphen"/>mae; et bene mihi erat cum iis.</hi> Which I Engliſh thus, how did I weepe at the <hi>hymns</hi> and <hi>ſongs,</hi> at the ſweet melodious voyces of thy Church? Theſe voyces, did influence my ears; and thy truth was melted and diſſolved into my heart: thereupon holy affe<g ref="char:EOLhyphen"/>ctions did boyle within me, &amp; tears did run downe, O how well was it with me then? The experience of this melting of heart, which he had found in this divine Ordinance at his firſt Conver<g ref="char:EOLhyphen"/>ſion, kept him afterwards upon his feet, when he was under a temptation, to have altogether diſſallowed <hi>vocall praiſes;</hi> hence<g ref="char:punc">▪</g> 
+               <hi>lib.</hi> 10. <hi>Confeſſ.</hi> cap. 33. <hi>Cum</hi> (ſaies he) <hi>reminiſcor lachrimas meas, quas fudi ad cantus Eccleſiae tu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in primerdus recuperationis meae, magnam inſtituts hujus vtilitatem agnoſco.</hi> That is, When I call to minde the tears which I ſhed at the <hi>Praiſes</hi> of thy <hi>Church,</hi> about the time of my firſt recovery to the faith, I am made to acknow<g ref="char:EOLhyphen"/>ledge the exceeding advantage of this <hi>Ordinance.</hi> May not this reprove our ſpiritleſſe, lifleſſe and formall way in ſetting about this heavenly <hi>dutie of praiſing?</hi> Ah have we not oftentimes <hi>vocem in Choro &amp; mentem in foro?</hi> Our voice in the duty, when our hearts are abroad, after a thouſand vanities. But I muſt reſtrain my ſelf; I am affrayed I have been to large on this fourth word, <hi>I will praiſe thee with the Pſalterie, unte thee will I ſing with the harp.</hi>
+            </p>
+            <pb n="18" facs="tcp:154285:16"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="19" facs="tcp:154285:16"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="20" facs="tcp:154285:17"/>
+            <p>I come therefore to the fifth and laſt word, namely the <hi>Com<g ref="char:EOLhyphen"/>pellation,</hi> which the Pſalmiſt giveth to God: <hi>O Thou HOLY ONE of Iſraell,</hi> &amp;c. Where, what ever had been his <hi>afflictions</hi> ei<g ref="char:EOLhyphen"/>ther by <hi>Saull</hi> before his ſettlment in the kingdom, or afterwards by <hi>Abſelom,</hi> yet he vindicats the Lord and his holineſſe; <hi>O Thou HOLY ONE of Iſraell, As if he had ſaid,</hi> What ever have been my <hi>ſufferings</hi> &amp; how wickedly ſoever men have carryed, yet <hi>Thou O Lord art HOLY in all thy wayes, and righteous in all thy judgements.</hi> ITS the Lords peculiar <hi>Title,</hi> to bee called either abſolutly <hi>The HOLY ONE,</hi> or with addition, as in my text, <hi>Iſraels HOLY ONE.</hi> He is holy 1. <hi>eſſentially;</hi> Holineſſe is but a ſuperve<g ref="char:EOLhyphen"/>nient <hi>quality</hi> in Men and Angels, but holineſſe is the <hi>Eſſence</hi> of God, every divine attribute is his <hi>Eſſence.</hi> He is 2. holy <hi>cauſally,</hi> All holineſſe in the creature ſprings from him as the <hi>Fountain.</hi> He is 3. holy <hi>exemplarlie,</hi> He is the Paterne and Rule of all true holineſſe, <hi>Be ye holy, as I am holy</hi> I. Pet. 1. 16. He is 4. holy <hi>obje<g ref="char:EOLhyphen"/>ctively,</hi> Hee ought to bee ſerved in holineſſe. He is 5. holy <hi>emi<g ref="char:EOLhyphen"/>mentlie,</hi> Exod. 15. 11. <hi>He is glorious in holines.</hi> Hee is ſo holy, that he cannot look on ſin, except with an vindictive eye, <hi>Hab.</hi> 1. 13. Sin never got a good look from God, nor ever ſhall: fitly ther<g ref="char:EOLhyphen"/>fore is he called, <hi>The HOLY ONE, &amp; Iſraels HOLY ONE,</hi> be<g ref="char:EOLhyphen"/>cauſe he ſanctified all <hi>Iſraell,</hi> even the whol <hi>Nation</hi> federally, to be a Church to himſelf: therfore, <hi>Exod.</hi> 19. 6. they are called an <hi>Holy Nation,</hi> and among them he had many <hi>Jewels, Choiſe Ones,</hi> internally, inherently, and ſavingly ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctified; Among whom, <hi>David</hi> was an eminent one: well therefore was he ſtyled by <hi>Da<g ref="char:EOLhyphen"/>vid, The HOLY ONE of Iſraell.</hi>
+            </p>
+            <p>
+               <label>Doct. from 3. branch.</label> I have runne through the words of this <hi>verſe</hi> in an explicatory way, Time will not permit me to inſiſt on the <hi>particulars,</hi> take therefore this <hi>generall doctrine</hi> from the wholl. <hi>It is not only law<g ref="char:EOLhyphen"/>full, but alſo dutie, whou the Lord bestows ſignall mercies, on a perſon, or nation, to abound in praiſes to him.</hi> T<hi>he Holy ONE of Iſrael, ſhould inhabite Iſraels praiſes.</hi> If <hi>David,</hi> upon the foreſight of a hoped for <hi>Deliverance,</hi> engaged ſo ſolemnly to bleſſe the Name of the Lord, how much more is it duty to praiſe him, when the <hi>Deliverance</hi> is already wrought. Wee have many precedents of the people of God in this: of <hi>Moſes and Miriam,</hi> Exod. 15. of<note place="margin">
+                  <hi>Prayſing the duty of the day.</hi>
+               </note> 
+               <hi>Deborah</hi> and <hi>Barak,</hi> Iudg. 5. of <hi>Anna</hi> I. Sam. 2. and many others. Surely theſe Lands have as much matter to bleſſe the Lord, as ever a people; if we had hearts to be about the duty aright, Af<g ref="char:EOLhyphen"/>ter
+<pb n="21" facs="tcp:154285:17"/>
+that <hi>Athaliah,</hi> 2. King. 11. had cut off the <hi>Royall ſeed,</hi> and u<g ref="char:EOLhyphen"/>ſurped the Crowne of <hi>Judah,</hi> for the ſpace of ſeven years, one onely young child, upon the breaſts of the <hi>Nurſe,</hi> having tho<g ref="char:EOLhyphen"/>row the mercy of God, eſcaped the fury of that <hi>Bloodie Uſurper:</hi> When at length, by the means of <hi>Jehojada the High Prieſt, Joas</hi> is Crowned, and the uſurpng <hi>Queen,</hi> received the deſerved ſtroak of juſtice, its ſaid, v. 14. <hi>The whole Land rejoyced and Blew with Trumpets.</hi> How much more have theſe Lands cauſe to rejoyce in the Lord? who after ſuch a barbarous and unparalleled <hi>Regi<g ref="char:EOLhyphen"/>cide,</hi> after ſuch a labyrinth and maze of confuſions, which with<g ref="char:EOLhyphen"/>in theſe few dayes, to humane reaſon appeared inextricable: who, I ſay, after all this, is ſettling the government of the <hi>Na<g ref="char:EOLhyphen"/>tions,</hi> upon the ancient foundations: and hath reduced our Na<g ref="char:EOLhyphen"/>tive and Gracious <hi>SOVERAIGN</hi> to ſit upon the Throne of his <hi>ANCESTORS</hi> IT is promiſed as a great mercy, <hi>Jer.</hi> 30. 21. <hi>Their Nobles ſhall be of the<g ref="char:cmbAbbrStroke">̄</g>ſelves, &amp; their Governours ſhall proceed from the midſt of them.</hi> ITS a mercy, to have a native <hi>Prince,</hi> to rule over a people, and not <hi>strangers.</hi> They have not naturall <hi>affiction,</hi> who do not with it and rejoyce in it. Were not the fundamentals of Chriſtianity ſtrucken at, in time of theſe late <hi>Confuſions;</hi> and a ſtanding <hi>Miniſtry</hi> together with <hi>Gospel Ordinances</hi> like to be overturned? And is it not a mercy, ſo to have the Civill Govern<g ref="char:EOLhyphen"/>ment ſettled, as all intereſts, both ſacred and civill, may be ſecu<g ref="char:EOLhyphen"/>red? Who then can deny, but there is matter of rejoycing in the Lord? if we had hearts, to do it Chriſtianly. But we have cauſe to be jealous of our owne hearts, leſt the Lord be provoked, by our carnall deportment on ſuch a day. Its my earneſt exhortation to you, in the name of the <hi>LORD,</hi> (I have alſo warrant, to ſpeak it, in Our <hi>SOVERAIGNS</hi> name, from his <hi>MAJESTIES Late Declaration,</hi>) that ye neither offend <hi>GOD,</hi> nor diſhonour your <hi>SOVERAIGN,</hi> by debauching your ſelves to day. Dear People, be afraid to draw on wrath to day, on the Lands, or on your <hi>SOVERAIGN,</hi> there is ſuch a near relation betwixt <hi>Prince</hi> and <hi>People:</hi> that the one ſmarts often for the others ſin. As the <hi>Apoſtle</hi> ſayes Eph. 4. 26. <hi>Be angry, but ſin not:</hi> So I today. <hi>Rejoyce, but ſin not.</hi> Let forth your hearts, as much in rejoycing as you can, providing, yee guard againſt ſin: As there is no ſmall difficultie, ſo to be angry, as not to go beyond bounds; ſo I beleeve, it hath its owne difficultie, to get the heart rightly ordered in ſuch dayes of rejoycing; that we be not carn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, but holy &amp; ſpirituall, in the
+<pb n="22" facs="tcp:154285:18"/>
+performance of the duty. Wherefore, That your hearts may be the better ballaſted in <hi>Praiſing &amp; Rejoycing,</hi> I deſire you to joyne with it, that other neceſſary duty of <hi>Praying.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Reaſo<g ref="char:cmbAbbrStroke">̄</g>s why earneſt pray er ſhould be joyned with our praiſes.</hi>
+               </note>There be many <hi>Conſiderations</hi> to move us, to be much in hol<g ref="char:EOLhyphen"/>ding up the condition of our Gracious <hi>SOVERAIGN</hi> before the Lord by prayer. This is 1. A duty laid upon all ſubjects by the <hi>Apostle</hi> I. Tim. 2. 1. 2. <hi>I exhort, that Supplications, Prayers Interceſſions and Giving of Thanks; be made for all men,</hi> and par<g ref="char:EOLhyphen"/>ticularly, <hi>for Kings &amp; for all that are in authority.</hi> Ancient <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> were much in this duty, even under <hi>Heathen Princes,</hi> as wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſeth <hi>Tertull. Apol cap.</hi> 39 <hi>Oramus pro Imperatoribus, pro Miniſtris corum &amp; poteſtatibus, pro ſtatu ſaeculi, pro rerum quiet<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, pro mora finis.</hi> On this lait clauſe, <hi>pro mora finis: Tertull.</hi> him<g ref="char:EOLhyphen"/>ſelf co<g ref="char:cmbAbbrStroke">̄</g>menteth, cap 32. (as is well obſerved by <hi>Pameliu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>) <hi>Dum</hi> ſaieth TERTULL. <hi>clauſulam ſaeculs precam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r differri, Romanae diuturnitati favemus.</hi> Were they ſo eatneſt, for the continuance of the <hi>Roman Empyre,</hi> how much more ought we to plead with God for the perpetuity of the <hi>Brittiſh Empyre</hi> in his <hi>MAJES<g ref="char:EOLhyphen"/>TIES</hi> Royall line. 2. A ſpirit of <hi>Government,</hi> is a ſpeciall <hi>bleſſing</hi> from God; Therefore we ought to be much in praying for it. <hi>SOLOMON</hi> was a very hopfull Prince, to whom many <hi>Pro<g ref="char:EOLhyphen"/>miſes</hi> w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re entailed; Yet O ſo earneſt as <hi>DAVID</hi> is in prayer, for a ſpirit of <hi>Government</hi> to him, <hi>Pſal</hi> 72. 1. <hi>Give the King thy judgements O God, and thy righteouſneſſe to the Kings ſon.</hi> 3. No men are compaſſed with greater temptations, then <hi>Princes</hi> and <hi>Great Ones<g ref="char:punc">▪</g>
+               </hi> And therefore, They have the more neede of <hi>Re<g ref="char:EOLhyphen"/>membrancers</hi> before the Thron of God. 4. Who can be ſuch In<g ref="char:EOLhyphen"/>ſtruments of publick good, as zealous &amp; godly Princes? And therefore wee ought to be much in prayer for them. And the rather 5. Seing <hi>the Kings heart is in the hand of the Lord, as the ri<g ref="char:EOLhyphen"/>vers of water, Hee turneth it whetherſoever hee will,</hi> prov. 21. 1. A beleeving <hi>Supplicant</hi> can have more influence on the heart of a Prince, though many hundreth myles from <hi>Cour<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> then <hi>Courtiers,</hi> who are daylie admitted to his Preſence. When that wicked <hi>Haman</hi> was ſuggeſting bad counſell to that great King <hi>Aſuerus,</hi> againſt the people of God; <hi>Mordeeai's</hi> prayers defea<g ref="char:EOLhyphen"/>ted all <hi>Haman's</hi> contrivments: they influenced <hi>Ahaſuerus</hi> more then <hi>Haman's</hi> Court-ſollicitations. <hi>Beleeving ſupplicants</hi> have power with God, <hi>Iſai.</hi> 45. 11. <hi>Ask of me of things concerning my ſons, &amp; concerning the works of my hands, command ye me,</hi> Bleſſed be
+<pb n="23" facs="tcp:154285:18"/>
+God, he who heares Prayer, hath hearts of <hi>Princes,</hi> in his hand.</p>
+            <p n="6">6. O what an unvaluable mercy is it, when Prince and Peo<g ref="char:EOLhyphen"/>ple, concurre harmoniouſly, each in there own ſphere, to main<g ref="char:EOLhyphen"/>taine and promove the publick <hi>intereſts</hi> of Ieſus Chriſt in the <hi>Nations?</hi> O how ſweet is it, when a Prince rules not only over the bodies, but alſo in the hearts of ſubjects? <hi>Divines</hi> obſerve<note place="margin">
+                  <hi>Rob. Abbo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> lib. de <hi>ſu<g ref="char:EOLunhyphen"/>prema pote<g ref="char:EOLhyphen"/>ſtate Regia Praelect.</hi> 3. §. 2. Animae <hi>vocabulo requirere vi<g ref="char:EOLhyphen"/>detur Apoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olus, ut non corporie tantuns obſequium, ſed animae que<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> voluntatem et affectum Principibus accommodemus.</hi>
+               </note> upon that word, <hi>Rom.</hi> 13. 1. <hi>Let every ſoul be ſubject to the higher powers:</hi> that ſubjects obedience to their <hi>Prince,</hi> ſhould be affe<g ref="char:EOLhyphen"/>ctionat and cordiall, from the <hi>Heart</hi> and <hi>Soule.</hi> Ought we not then be much at the Throne of grace; That the Lord would bleſſe <hi>Britaine &amp; Ireland</hi> with theſe rich mercies, &amp; that <hi>thoughts</hi> of diſloyaltie may be had in everlaſting abhor<g ref="char:EOLhyphen"/>rency by all his <hi>Majeſties</hi> ſubjects. Laſtlie, Hath not the Lord been pleading a very bitter and long Controverſie, with theſe Lands, &amp; that in the view of the Nations round about? have we not then cauſe, to plead with MOSES, <hi>Pſal.</hi> 90. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 15. 16. 17. <hi>That the</hi> LORD, <hi>would make us glad according to the dayes wherein he hath afflicted us, and the years, wherein wee have ſeen evill. That the Lord, would make his</hi> WORK, <hi>appeare unto his Servants: &amp; his</hi> GLORY, <hi>unto their children, that the</hi> BEAUTIE, OF THE LORD OUR GOD, <hi>may be upon us. &amp; that as Iſaiah</hi> Prophecieth, <hi>cap.</hi> 60. 18. <hi>Violence may no more be heard in our Land, nor waſting or deſtruction within our borders, but our walls may be called</hi> SALVATION, <hi>&amp; our gates</hi> PRAISE. <hi>For theſe things the Lord will bee enquired by us, to do them for us.</hi> Ezekiel, 36. 37. O that a ſpirit of <hi>Prayer</hi> &amp; <hi>Praiſe</hi> wer poured out on hearts to day<g ref="char:punc">▪</g> Onely let me againe obteſt you in the Name of the <hi>Lord Jeſus,</hi> to beware of <hi>ranting, debauching</hi> and of what ever may indiſpoſe you to theſe two great duties of the day, <hi>Prayer &amp; Praiſe.</hi>
+            </p>
+            <p>I cloſe all with that word of <hi>Benajah,</hi> concerning King <hi>SOLO<g ref="char:EOLhyphen"/>MON,</hi>
+               <note place="margin">
+                  <hi>A Gratula<g ref="char:EOLhyphen"/>tory Conclu<g ref="char:EOLhyphen"/>ſion.</hi>
+               </note> I. <hi>King.</hi> 1. 36. 37. After that <hi>Ado<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ijah</hi> had taken the <hi>Throne</hi> by uſurpation. <hi>Bathſheba</hi> and <hi>Nathan</hi> came unto <hi>David,</hi> who lay a dying, regrating the matter; Whereupon <hi>David</hi> commanded <hi>Nathan</hi> &amp; <hi>Zadok</hi> to anoint King <hi>SOLOMON:</hi> for ſaid he, <hi>Solomo<g ref="char:cmbAbbrStroke">̄</g> ſhall ſit on my throne: him have I appointed to be R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ler over Iſrael and Iudah. Then ſaid Benajah the ſon of Iehojada,</hi> Amen. <hi>The Lord God of My Lord the King ſay ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> too. As the Lord hath been with my Lord the King, ſo be he with SOLOMON; &amp; make his Throne greater then the Throne of my Lord King David.</hi> So ſay I. As the Lord
+<pb n="24" facs="tcp:154285:19"/>
+was with King <hi>David,</hi> ſo bee hee with our Gracious <hi>SOVE<g ref="char:EOLhyphen"/>RAIGN.</hi> The Lord make the Throne of <hi>KING CHARLES THE SECOND,</hi> greater then the Throne of either <hi>Da<g ref="char:EOLhyphen"/>vid</hi> or <hi>Solomon:</hi> greater then ever was the Throne of King <hi>CHARLES</hi> the I. or King <hi>JAMES</hi> the VI. then ever was the Throne of any <hi>Scotiſh, Engliſh,</hi> or <hi>Britiſh</hi> king. Let him be <hi>CA<g ref="char:EOLhyphen"/>ROLO MAGNO major,</hi> greater the<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>CHARLES</hi> the great. Now to Him who is able to do aboundantly above all that we can think, To the King Eternall, Immortall, Inviſible, the onely Wiſe GOD, be honour and glory for ever and ever, <hi>Amen.</hi>
+            </p>
+            <closer>Grata DEO ac REGI, nulli<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> libentius unquam Responſura ſono, Britonum Gens accinat <hi>Amen.</hi> Et Reboaturis geminetur vocibus AMEN.
+<signed>T. G. V. S.</signed>
+            </closer>
+            <pb facs="tcp:154285:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
